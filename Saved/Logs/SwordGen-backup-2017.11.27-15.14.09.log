@@ -1,0 +1,1332 @@
+﻿Log file open, 11/27/17 13:52:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SwordGen
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(208042119) SRandInit(208042119).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.159571
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.27-18.52.19:899][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-18.52.19:899][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.27-18.52.19:907][  0]LogInit: Computer: SOLACE
+[2017.11.27-18.52.19:907][  0]LogInit: User: James
+[2017.11.27-18.52.19:907][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.27-18.52.19:907][  0]LogInit: High frequency timer resolution =3.320331 MHz
+[2017.11.27-18.52.19:908][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2017.11.27-18.52.19:908][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.27-18.52.19:908][  0]LogMemory: Process Physical Memory: 272.64 MB used, 272.64 MB peak
+[2017.11.27-18.52.19:908][  0]LogMemory: Process Virtual Memory: 271.75 MB used, 271.75 MB peak
+[2017.11.27-18.52.19:908][  0]LogMemory: Physical Memory: 6076.11 MB used,  18394.95 MB free, 24471.07 MB total
+[2017.11.27-18.52.19:908][  0]LogMemory: Virtual Memory: 631.29 MB used,  18394.95 MB free, 134217728.00 MB total
+[2017.11.27-18.52.20:005][  0]LogInit: Using OS detected language (en-US).
+[2017.11.27-18.52.20:005][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.27-18.52.20:007][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.27-18.52.20:308][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.27-18.52.20:531][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.27-18.52.20:568][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 670' (Feature Level 11_0)
+[2017.11.27-18.52.20:568][  0]LogD3D11RHI:       2017/0/12235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.27-18.52.20:571][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2017.11.27-18.52.20:572][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.27-18.52.20:573][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.27-18.52.20:573][  0]LogD3D11RHI:       0/0/12235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.27-18.52.20:573][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.27-18.52.20:577][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.27-18.52.20:577][  0]LogD3D11RHI:     GPU DeviceId: 0x1189 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.27-18.52.20:577][  0]LogWindows: EnumDisplayDevices:
+[2017.11.27-18.52.20:577][  0]LogWindows:    0. 'NVIDIA GeForce GTX 670' (P:1 D:1)
+[2017.11.27-18.52.20:578][  0]LogWindows:    1. 'NVIDIA GeForce GTX 670' (P:0 D:1)
+[2017.11.27-18.52.20:578][  0]LogWindows:    2. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.27-18.52.20:578][  0]LogWindows:    3. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.27-18.52.20:578][  0]LogWindows:    4. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.27-18.52.20:578][  0]LogWindows:    5. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.27-18.52.20:578][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.27-18.52.20:578][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.27-18.52.20:578][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 670
+[2017.11.27-18.52.20:578][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2017.11.27-18.52.20:578][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2017.11.27-18.52.20:578][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.11.27-18.52.20:598][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.27-18.52.20:614][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.27-18.52.20:665][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (C:/Users/James/Documents/UE4SwordGen/Intermediate/Shaders/WorkingDirectory/204/).
+[2017.11.27-18.52.20:665][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/3A5434B94F31D8ADC306AF82D8A50E83/'.
+[2017.11.27-18.52.20:665][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.27-18.52.21:376][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.27-18.52.21:415][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.27-18.52.21:453][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.27-18.52.21:495][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.27-18.52.21:539][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.27-18.52.21:583][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.27-18.52.21:624][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.27-18.52.21:665][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.27-18.52.21:699][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.27-18.52.21:735][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.27-18.52.21:773][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.27-18.52.21:812][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.27-18.52.21:849][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.27-18.52.21:889][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.27-18.52.21:966][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.27-18.52.21:966][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.27-18.52.22:004][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.27-18.52.22:032][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.27-18.52.22:104][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.27-18.52.22:124][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.27-18.52.22:160][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.27-18.52.22:197][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.27-18.52.22:235][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.27-18.52.22:272][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.27-18.52.22:272][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.27-18.52.22:621][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.27-18.52.22:684][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.27-18.52.22:684][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.27-18.52.22:684][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/James/Documents/UE4SwordGen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.27-18.52.22:684][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.27-18.52.22:684][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/James/Documents/UE4SwordGen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.27-18.52.22:684][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.27-18.52.22:696][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.27-18.52.22:709][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.27-18.52.22:718][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.27-18.52.22:718][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.27-18.52.22:719][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-18.52.22:719][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-18.52.23:056][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-18.52.23:374][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.27-18.52.23:414][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.27-18.52.23:414][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.27-18.52.23:414][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.27-18.52.23:414][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.27-18.52.23:414][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.27-18.52.23:453][  0]LogNetVersion: SwordGen , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3122522569)
+[2017.11.27-18.52.23:640][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2017.11.27-18.52.24:113][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.084339 seconds
+[2017.11.27-18.52.24:118][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.27-18.52.24:118][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.11.27-18.52.24:118][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.27-18.52.24:157][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.27-18.52.26:373][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.27-18.52.26:412][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.27-18.52.26:976][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.27-18.52.27:333][  0]SourceControl: Source control is disabled
+[2017.11.27-18.52.27:333][  0]SourceControl: Source control is disabled
+[2017.11.27-18.52.27:381][  0]SourceControl: Source control is disabled
+[2017.11.27-18.52.27:432][  0]SourceControl: Source control is disabled
+[2017.11.27-18.52.28:114][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.27-18.52.28:344][  0]LogOcInput: OculusInput pre-init called
+[2017.11.27-18.52.28:581][  0]LogEngine: Initializing Engine...
+[2017.11.27-18.52.28:584][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.27-18.52.28:766][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.27-18.52.28:766][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.27-18.52.28:865][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.27-18.52.28:878][  0]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-18.52.28:887][  0]LogInit: FAudioDevice initialized.
+[2017.11.27-18.52.28:992][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.27-18.52.29:002][  0]LogInit: Texture streaming: Enabled
+[2017.11.27-18.52.29:073][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.27-18.52.29:170][  0]LogInit: Transaction tracking system initialized
+[2017.11.27-18.52.29:416][  0]BlueprintLog: New page: Editor Load
+[2017.11.27-18.52.30:064][  0]LocalizationService: Localization service is disabled
+[2017.11.27-18.52.30:628][  0]LogConsoleResponse: Display: 
+[2017.11.27-18.52.30:776][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.27-18.52.30:776][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.27-18.52.30:776][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.27-18.52.31:721][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/' took 0.01s
+[2017.11.27-18.52.31:755][  0]SourceControl: Source control is disabled
+[2017.11.27-18.52.31:755][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.27-18.52.31:755][  0]LightingResults: New page: Lighting Build
+[2017.11.27-18.52.31:786][  0]MapCheck: New page: Map Check
+[2017.11.27-18.52.31:786][  0]LightingResults: New page: Lighting Build
+[2017.11.27-18.52.31:983][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.11.27-18.52.31:988][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.27-18.52.31:999][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.27-18.52.32:041][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.882ms to complete.
+[2017.11.27-18.52.32:041][  0]LogFileHelpers: Loading map 'Template_Default' took 0.286
+[2017.11.27-18.52.32:184][  0]LogCollectionManager: Loaded 0 collections in 0.001756 seconds
+[2017.11.27-18.52.32:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Saved/Collections/' took 0.01s
+[2017.11.27-18.52.32:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/Developers/James/Collections/' took 0.01s
+[2017.11.27-18.52.32:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/Collections/' took 0.01s
+[2017.11.27-18.52.32:255][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.27-18.52.32:263][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2363 classes and 519 folders.
+[2017.11.27-18.52.32:309][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.27-18.52.32:350][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.27-18.52.32:383][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.27-18.52.32:435][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-18.52.32:437][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.27-18.52.32:441][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.27-18.52.32:528][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.27-18.52.32:672][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.27-18.52.32:672][  0]LogLoad: (Engine Initialization) Total time: 14.92 seconds
+[2017.11.27-18.52.32:672][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.27-18.52.32:673][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.27-18.52.32:673][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.27-18.52.32:682][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-18.52.32:696][  0]LogAssetRegistry: Asset discovery search completed in 9.0783 seconds
+[2017.11.27-18.52.32:697][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.27-18.52.32:697][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2017.11.27-18.52.32:700][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.27-18.52.32:734][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-18.52.41:961][ 92]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-18.52.41:979][ 92]LogAIModule: Creating AISystem for world map
+[2017.11.27-18.52.41:995][ 92]Cmd: MAP LOAD FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.27-18.52.41:995][ 92]LightingResults: New page: Lighting Build
+[2017.11.27-18.52.41:996][ 92]LoadErrors: New page: Loading map: map.umap
+[2017.11.27-18.52.41:996][ 92]MapCheck: New page: Map Check
+[2017.11.27-18.52.41:997][ 92]LightingResults: New page: Lighting Build
+[2017.11.27-18.52.42:068][ 92]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.27-18.52.42:087][ 92]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.27-18.52.42:132][ 92]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.507ms to complete.
+[2017.11.27-18.52.42:132][ 92]LogFileHelpers: Loading map 'map' took 0.138
+[2017.11.27-18.54.23:047][540]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2017.11.27-18.54.23:632][540]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-18.54.23:682][540]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.27-18.56.07:863][513]LogEditorTransaction: Undo Move Node
+[2017.11.27-18.56.07:882][513]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-18.56.08:109][536]LogEditorTransaction: Undo Move Node
+[2017.11.27-18.56.08:406][561]LogEditorTransaction: Undo Move Node
+[2017.11.27-18.56.08:687][592]LogEditorTransaction: Undo Move Node
+[2017.11.27-18.56.09:082][636]LogEditorTransaction: Undo Move Node
+[2017.11.27-18.56.09:390][670]LogEditorTransaction: Undo Move Node
+[2017.11.27-18.56.09:950][734]LogEditorTransaction: Undo Move Node
+[2017.11.27-18.58.43:268][962]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.27-18.59.43:147][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-18.59.43:175][635]LogSavePackage: Save=23.70ms
+[2017.11.27-18.59.43:175][635]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen62C890E84F49CAA2E20CF596619BFF41.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-18.59.43:180][635]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-19.00.24:920][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-19.00.29:150][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-19.00.29:191][ 35]LogSavePackage: Save=14.40ms
+[2017.11.27-19.00.29:191][ 35]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map6DD06E2B40FEE62E3612D5A9FC0B29D0.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map.umap'
+[2017.11.27-19.00.29:197][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map.umap
+[2017.11.27-19.00.29:223][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_BuiltData" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset" SILENT=true
+[2017.11.27-19.00.29:236][ 35]LogSavePackage: Save=8.66ms
+[2017.11.27-19.00.29:236][ 35]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_BuiltData653F70F949320101A282D586CB8E618F.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset'
+[2017.11.27-19.00.29:239][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset
+[2017.11.27-19.00.48:080][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-19.00.48:111][364]LogSavePackage: Save=14.39ms
+[2017.11.27-19.00.48:112][364]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/mapB2CA5A474E667B5619470D9B807AF23C.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map.umap'
+[2017.11.27-19.00.48:114][364]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map.umap
+[2017.11.27-19.00.48:129][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_BuiltData" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset" SILENT=true
+[2017.11.27-19.00.48:140][364]LogSavePackage: Save=6.76ms
+[2017.11.27-19.00.48:140][364]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_BuiltData607525C646C448165E6B32BA8E4BA883.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset'
+[2017.11.27-19.00.48:143][364]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset
+[2017.11.27-19.00.57:642][498]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.00.57:905][498]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.27-19.00.57:910][498]LogPlayLevel: [PlayLevel] Compiling SwordGen before play...
+[2017.11.27-19.00.58:163][498]LogPlayLevel: PlayLevel: Blueprint regeneration took 258 ms (1 blueprints)
+[2017.11.27-19.00.58:176][498]PIE: New page: PIE session: map (Nov 27, 2017, 9:00:58 AM)
+[2017.11.27-19.00.58:177][498]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.00.58:189][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012886s)
+[2017.11.27-19.00.58:190][498]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.00.58:190][498]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2017.11.27-19.00.58:190][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.013731s)
+[2017.11.27-19.00.58:219][498]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.00.58:225][498]LogInit: FAudioDevice initialized.
+[2017.11.27-19.00.58:268][498]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.00.58:293][498]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.00.58
+[2017.11.27-19.00.58:293][498]LogWorld: Bringing up level for play took: 0.000635
+[2017.11.27-19.00.58:357][498]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.27-19.00.58:358][498]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.00.58:358][498]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.00.58:366][498]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'GuardList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.00.58:366][498]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.00.58:366][498]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'BladeList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.00.58:366][498]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.00.58:366][498]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.292
+[2017.11.27-19.01.07:013][515]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.01.07:025][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-19.01.07:025][515]PIE: New page: PIE session: map (Nov 27, 2017, 9:01:07 AM)
+[2017.11.27-19.01.07:025][515]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.01.07:026][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001067s)
+[2017.11.27-19.01.07:026][515]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.01.07:027][515]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2017.11.27-19.01.07:027][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001900s)
+[2017.11.27-19.01.07:045][515]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.01.07:051][515]LogInit: FAudioDevice initialized.
+[2017.11.27-19.01.07:080][515]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.01.07:081][515]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.01.07
+[2017.11.27-19.01.07:081][515]LogWorld: Bringing up level for play took: 0.000572
+[2017.11.27-19.01.07:083][515]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.01.07:083][515]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.01.07:083][515]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'GuardList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.01.07:083][515]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.01.07:083][515]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'BladeList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.01.07:083][515]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.01.07:083][515]PIE: Play in editor start time for /Game/UEDPIE_0_map 1.008
+[2017.11.27-19.01.35:770][704]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2017.11.27-19.01.35:772][704]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.01.36:016][704]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.01.36:030][704]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.01.36:072][704]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.01.36:076][704]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.01.36:080][704]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.01.39:052][981]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.01.39:052][981]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.01.39:052][981]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.01.39:052][981]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.01.45:567][723]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.01.48:090][968]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.01.48:090][968]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.01.48:090][968]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.01.48:090][968]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.01.49:645][140]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.01.58:284][111]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.01.58:284][111]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.01.58:284][111]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.01.58:284][111]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.06.15:976][838]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.06.15:988][838]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.06.20:036][264]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.06.20:036][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.06.20:036][264]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.06.20:036][264]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.06.57:993][930]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.06.58:034][930]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.07.00:831][197]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.07.00:831][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.07.00:831][197]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.07.00:831][197]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.07.10:467][253]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.07.10:504][253]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.07.12:873][476]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.07.12:873][476]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.07.12:873][476]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.07.12:873][476]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.07.31:963][521]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.07.32:002][521]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.07.32:953][607]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.07.32:993][607]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.07.35:733][863]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.07.35:733][863]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.07.35:733][863]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.07.35:733][863]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.07.41:242][449]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.07.41:282][449]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.07.43:594][666]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.07.43:594][666]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.07.43:594][666]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.07.43:594][666]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.07.45:172][846]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.07.45:192][846]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.07.45:221][846]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.07.47:892][110]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.07.47:912][110]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.07.47:941][110]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.07.50:672][380]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.07.50:687][380]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.07.50:716][380]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.07.53:226][615]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.07.53:226][615]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.07.53:226][615]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.07.53:226][615]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.07.58:120][126]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.07.58:156][126]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.00:686][358]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.08.00:686][358]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.08.00:686][358]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.08.00:686][358]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.08.05:464][862]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.05:502][862]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.07:377][ 33]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.07:419][ 33]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.09:046][183]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.09:086][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.11:919][445]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.08.11:919][445]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.08.11:919][445]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.08.11:919][445]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.08.30:010][362]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.30:046][362]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.32:485][585]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.08.32:485][585]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.08.32:485][585]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.08.32:485][585]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.08.34:919][847]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.34:932][847]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.08.34:961][847]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.38:399][166]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.38:416][166]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.08.38:444][166]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.41:408][458]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.41:423][458]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.08.41:452][458]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.43:074][605]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.43:094][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.45:307][810]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.08.45:307][810]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.08.45:307][810]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.08.45:307][810]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.08.50:699][388]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.08.50:700][388]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.08.50:700][388]LogMaterial: 	(Node Custom) Custom material Custom missing input 1 (tex)
+[2017.11.27-19.08.50:705][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.08.50:727][388]MaterialEditorStats: Error: [SM5] (Node Custom) Custom material Custom missing input 1 (tex)
+[2017.11.27-19.10.13:431][ 47]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.10.13:431][ 47]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.10.13:431][ 47]LogMaterial: 	(Node Custom) Custom material Custom missing input 1 (tex)
+[2017.11.27-19.10.13:439][ 47]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.10.31:320][891]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.10.31:320][891]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.10.31:320][891]LogMaterial: 	(Node Custom) Custom material Custom missing input 1 (tex)
+[2017.11.27-19.10.31:323][891]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2017.11.27-19.11.02:039][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.27-19.11.02:060][ 45]LogSavePackage: Save=16.03ms
+[2017.11.27-19.11.02:060][ 45]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_Auto1387C099F40293545CF1B0CBFF763B01B.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto1.umap'
+[2017.11.27-19.11.02:063][ 45]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto1.umap
+[2017.11.27-19.11.02:066][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map' took 0.045
+[2017.11.27-19.11.02:066][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.045
+[2017.11.27-19.11.15:565][395]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.11.15:565][395]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.11.15:565][395]LogMaterial: 	(Node Custom) Custom material Custom missing input 1 (tex)
+[2017.11.27-19.11.38:040][923]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.11.38:040][923]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.11.38:040][923]LogMaterial: 	(Node Custom) Custom material Custom missing input 1 (tex)
+[2017.11.27-19.11.38:041][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.11.42:294][358]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.11.44:922][479]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.11.44:922][479]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.11.44:922][479]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.11.44:922][479]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.12.28:146][357]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.12.28:159][357]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.12.30:647][590]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.12.30:647][590]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.12.30:647][590]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.12.30:647][590]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.12.41:519][770]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.12.41:575][771]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.27-19.12.43:618][937]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.12.43:618][937]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.12.43:618][937]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.12.43:618][937]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.12.48:870][480]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.12.55:351][194]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.12.55:351][194]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.12.55:351][194]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.12.55:351][194]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.13.18:878][733]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.13.18:927][734]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.11.27-19.13.23:864][233]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.13.23:864][233]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.13.23:864][233]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.13.23:865][233]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.13.33:812][296]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.13.33:831][296]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.13.42:025][180]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.13.42:038][180]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.13.42:079][180]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.13.44:533][396]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.13.44:533][396]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.13.44:533][396]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.13.44:533][396]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.14.03:109][492]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.05:712][746]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.14.05:713][746]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.14.05:713][746]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.14.05:713][746]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.14.08:599][ 62]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.08:617][ 62]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.10:926][289]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.10:944][289]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.13:370][523]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.13:387][523]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.16:052][786]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.16:067][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.18:106][971]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.14.18:106][971]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.14.18:106][971]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.14.18:106][971]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.14.20:305][220]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.20:325][220]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.23:421][521]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.23:434][521]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.25:441][712]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.25:457][712]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.27:476][907]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.14.27:476][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.14.27:476][907]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.14.27:476][907]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.14.28:810][ 57]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.28:823][ 57]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.30:570][222]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.30:586][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.32:141][373]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.32:158][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.14.34:491][597]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.14.34:491][597]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.14.34:491][597]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.14.34:491][597]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.14.54:721][765]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.14.57:726][ 60]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.14.57:726][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.14.57:726][ 60]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.14.57:726][ 60]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.15.00:226][327]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.15.02:364][531]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.15.02:364][531]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.15.02:364][531]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.15.02:364][531]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.15.04:140][723]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.15.06:310][916]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.15.06:310][916]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.15.06:310][916]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.15.06:310][916]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.15.16:011][948]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.15.20:069][356]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.15.20:069][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.15.20:069][356]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.15.20:069][356]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.15.21:089][458]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.15.23:074][633]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.15.23:074][633]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.15.23:074][633]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.15.23:074][633]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.15.23:155][640]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.15.25:800][878]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.15.25:800][878]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.15.25:800][878]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.15.25:800][878]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.16.12:438][717]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.14:044][859]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.14:064][859]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.16.16:384][ 53]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.16.16:384][ 53]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.16.16:384][ 53]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.16.16:384][ 53]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.16.17:754][192]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.21:348][521]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.21:367][521]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.16.25:721][920]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.16.25:721][920]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.16.25:721][920]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.16.25:721][920]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.16.28:953][229]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.31:218][430]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.31:234][430]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.16.34:664][733]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.16.34:664][733]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.16.34:664][733]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.16.34:664][733]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.16.36:457][904]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.38:801][101]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.40:817][271]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.16.40:817][271]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.16.40:817][271]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.16.40:817][271]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.16.43:128][492]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.45:447][703]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.27-19.16.45:447][703]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.27-19.16.45:447][703]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.27-19.16.45:447][703]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.27-19.16.51:805][329]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.16.51:805][329]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.16.51:805][329]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.16.51:806][329]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.17.14:345][640]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.17.55:513][820]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.17.55:513][820]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.17.55:513][820]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.17.59:561][231]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.17.59:562][231]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.17.59:562][231]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.18.09:384][380]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.18.09:385][380]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.18.09:385][380]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.18.09:386][380]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.11.27-19.18.11:738][640]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.18.11:738][640]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.18.11:738][640]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.18.11:739][640]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.27-19.18.11:747][640]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.27-19.18.11:780][640]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.18.11:781][640]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.18.11:781][640]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.18.19:893][475]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.18.19:893][475]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.18.19:893][475]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.18.39:318][399]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/ExpressionReference/Parameters/index.html?utm_source=editor&utm_medium=docs&utm_campaign=rich_tooltips#vectorparameter
+[2017.11.27-19.19.52:230][770]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.19.52:231][770]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.19.52:231][770]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.20.18:077][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.21.19:288][442]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.21.19:288][442]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.21.19:288][442]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.21.19:290][442]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.27-19.21.21:474][650]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.21.21:474][650]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.21.21:474][650]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.22.08:383][544]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.27-19.22.10:014][725]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-19.22.22:856][232]Cmd: DELETE
+[2017.11.27-19.22.22:856][232]Cmd: ACTOR DELETE
+[2017.11.27-19.22.22:881][232]LogEditorActor: Deleted Actor: Brush
+[2017.11.27-19.22.22:898][232]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.11.27-19.23.00:810][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.27-19.23.00:830][ 70]LogSavePackage: Save=15.28ms
+[2017.11.27-19.23.00:830][ 70]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_Auto2867BB8AE4490EBA81CF0C1A5391A8E0B.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto2.umap'
+[2017.11.27-19.23.00:833][ 70]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto2.umap
+[2017.11.27-19.23.00:837][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map' took 0.047
+[2017.11.27-19.23.00:837][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.047
+[2017.11.27-19.24.17:253][529]AssetReimport: New page: Outstanding source content changes 9:24:17 AM
+[2017.11.27-19.24.17:254][529]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/James/Documents/UE4SwordGen/Content/test.png)
+[2017.11.27-19.24.17:371][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test" FILE="C:/Users/James/Documents/UE4SwordGen/Content/test.uasset" SILENT=true
+[2017.11.27-19.24.17:375][530]LogSavePackage: Save=2.05ms
+[2017.11.27-19.24.17:375][530]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/test3760F8754B4C298BF2B52087EABAF8AE.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/test.uasset'
+[2017.11.27-19.24.17:380][530]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/test.uasset
+[2017.11.27-19.24.19:740][774]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.27-19.24.20:391][833]AssetReimport: Importing new asset /Game/test.
+[2017.11.27-19.24.39:248][931]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.24.39:248][931]LogMaterial: Warning: /Engine/Transient.SwordMat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.24.39:248][931]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.24.39:273][931]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.24.39:273][931]LogMaterial: Warning: C:\Users\James\Documents\UE4SwordGen\Content\SwordMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.24.39:273][931]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.24.39:277][931]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.24.39:278][931]LogMaterial: Warning: C:\Users\James\Documents\UE4SwordGen\Content\SwordMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.24.39:278][931]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.24.39:296][931]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat, compiling. 
+[2017.11.27-19.24.39:296][931]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2017.11.27-19.24.41:698][167]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.24.41:698][167]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.24.41:698][167]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.24.41:754][167]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.24.41:754][167]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.24.41:754][167]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.24.41:756][167]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.24.41:756][167]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.24.41:756][167]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.24.41:785][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.24.41:790][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.24.41:793][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.24.41:796][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.24.41:798][167]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.24.47:269][718]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.24.47:269][718]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.24.47:269][718]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.27-19.24.47:270][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.27-19.24.47:297][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.24.47:300][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.24.47:304][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.24.47:307][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.24.47:308][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.27-19.24.58:836][911]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.24.58:836][911]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.24.58:836][911]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.24.58:842][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.24.58:869][911]MaterialEditorStats: Error: [SM5] (Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.00:879][108]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.00:879][108]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.00:879][108]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.04:323][466]LogMaterialEditor: Saving and Compiling material SwordMat
+[2017.11.27-19.25.09:124][466]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.09:125][466]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.09:125][466]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.09:141][466]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.25.09:141][466]LogMaterial: Warning: C:\Users\James\Documents\UE4SwordGen\Content\SwordMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.09:141][466]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.09:143][466]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.25.09:144][466]LogMaterial: Warning: C:\Users\James\Documents\UE4SwordGen\Content\SwordMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.09:144][466]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.09:163][466]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat, compiling. 
+[2017.11.27-19.25.09:163][466]TextureStreamingBuild: Display: Compiling optional shaders took 0.004 seconds.
+[2017.11.27-19.25.09:205][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset" SILENT=true
+[2017.11.27-19.25.09:224][466]LogSavePackage: Save=14.83ms
+[2017.11.27-19.25.09:224][466]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMatE90EBC47471D5254ABF8B3A949EDD92C.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset'
+[2017.11.27-19.25.09:230][466]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset
+[2017.11.27-19.25.22:059][805]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.22:059][805]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.22:059][805]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.22:100][806]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.27-19.25.25:273][125]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.25:273][125]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.25:273][125]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.25:281][125]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.25.27:318][330]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.27:319][330]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.27:319][330]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.27:328][330]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.25.29:482][543]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.29:482][543]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.29:482][543]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.29:486][543]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.25.33:276][935]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.33:277][935]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.33:277][935]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.37:504][341]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.37:504][341]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.37:505][341]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.52:150][831]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.52:150][831]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.27-19.25.52:150][831]LogMaterial: 	(Node Multiply) Arithmetic between types float4 and float3 are undefined
+[2017.11.27-19.25.53:791][990]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.25.57:721][395]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.01:698][784]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.03:902][980]MaterialEditorStats: Base pass shader: 103 instructions
+[2017.11.27-19.26.03:902][980]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2017.11.27-19.26.03:902][980]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.26.03:902][980]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.26.03:902][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.26.22:312][926]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.22:332][926]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.26.25:230][201]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.25:249][201]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.26.27:845][431]MaterialEditorStats: Base pass shader: 103 instructions
+[2017.11.27-19.26.27:845][431]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2017.11.27-19.26.27:845][431]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.26.27:845][431]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.26.27:845][431]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.26.30:243][671]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.30:264][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.26.34:818][123]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.34:838][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.26.40:249][679]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.40:266][679]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.26.42:858][932]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.42:876][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.26.45:356][152]MaterialEditorStats: Base pass shader: 103 instructions
+[2017.11.27-19.26.45:356][152]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2017.11.27-19.26.45:356][152]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.26.45:356][152]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.26.45:356][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.26.47:366][361]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.49:489][565]MaterialEditorStats: Base pass shader: 103 instructions
+[2017.11.27-19.26.49:489][565]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2017.11.27-19.26.49:489][565]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.26.49:489][565]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.26.49:489][565]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.26.55:531][173]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.26.58:121][418]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.26.58:121][418]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.26.58:121][418]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.26.58:121][418]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.26.58:121][418]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.27.06:726][290]LogMaterialEditor: Saving and Compiling material SwordMat
+[2017.11.27-19.27.07:091][290]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.27.07:131][290]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.27.07:154][290]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.27.07:189][290]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat, compiling. 
+[2017.11.27-19.27.08:179][290]TextureStreamingBuild: Display: Compiling optional shaders took 0.994 seconds.
+[2017.11.27-19.27.09:734][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset" SILENT=true
+[2017.11.27-19.27.09:752][290]LogSavePackage: Save=14.56ms
+[2017.11.27-19.27.09:752][290]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMat3B780CAB41D4D983B5F2B7871226BB0E.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset'
+[2017.11.27-19.27.09:759][290]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset
+[2017.11.27-19.27.09:765][290]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.27.09:765][290]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.27.09:765][290]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.27.09:765][290]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.27-19.27.09:765][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.27.13:162][632]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.27.14:149][721]LogMaterialEditor: Saving and Compiling material SwordMat
+[2017.11.27-19.27.14:547][721]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.27-19.27.14:590][721]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.27.14:612][721]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.27.14:660][721]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat, compiling. 
+[2017.11.27-19.27.15:687][721]TextureStreamingBuild: Display: Compiling optional shaders took 1.031 seconds.
+[2017.11.27-19.27.17:256][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset" SILENT=true
+[2017.11.27-19.27.17:273][721]LogSavePackage: Save=13.47ms
+[2017.11.27-19.27.17:273][721]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMatAC6784EA4F482214A085C8A7E69AD650.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset'
+[2017.11.27-19.27.17:280][721]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset
+[2017.11.27-19.27.17:286][721]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.27.17:286][721]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.27.17:286][721]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.27.17:286][721]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.27-19.27.17:286][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.27.22:599][321]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.27-19.27.31:772][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.27-19.27.52:693][880]Cmd: DELETE
+[2017.11.27-19.27.52:693][880]Cmd: ACTOR DELETE
+[2017.11.27-19.27.52:694][880]LogEditorActor: Deleted Actor: Brush
+[2017.11.27-19.27.52:709][880]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.11.27-19.27.54:401][ 80]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.27-19.27.54:473][ 80]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.27-19.27.54:487][ 80]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.27-19.27.54:523][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.27.54:527][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.27.54:530][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.27.54:534][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.27.57:703][383]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.27.57:703][383]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.27.57:703][383]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.27.57:703][383]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.27.57:703][383]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.28.20:887][833]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.27-19.28.20:906][833]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.28.24:024][131]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.28.24:024][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.28.24:024][131]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.28.24:024][131]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.28.24:024][131]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.28.33:560][144]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.27-19.28.33:576][144]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.28.36:105][380]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.28.36:105][380]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.28.36:105][380]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.28.36:105][380]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.28.36:105][380]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.28.40:139][783]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.27-19.28.40:156][783]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.28.42:782][ 14]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.28.42:782][ 14]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.28.42:782][ 14]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.28.42:782][ 14]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.28.42:782][ 14]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.28.45:302][276]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.27-19.28.45:321][276]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.28.47:930][517]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.28.47:930][517]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.28.47:930][517]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.28.47:930][517]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.28.47:930][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.28.54:289][159]LogMaterialEditor: Saving and Compiling material SwordMat
+[2017.11.27-19.28.54:654][159]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.27-19.28.54:693][159]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.28.54:716][159]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.27-19.28.54:752][159]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat, compiling. 
+[2017.11.27-19.28.55:741][159]TextureStreamingBuild: Display: Compiling optional shaders took 0.993 seconds.
+[2017.11.27-19.28.57:351][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset" SILENT=true
+[2017.11.27-19.28.57:368][159]LogSavePackage: Save=13.93ms
+[2017.11.27-19.28.57:368][159]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMatBEE7951B4CF23602B0046A94D7C7DEB7.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset'
+[2017.11.27-19.28.57:376][159]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset
+[2017.11.27-19.28.57:382][159]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.28.57:382][159]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.28.57:382][159]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.28.57:382][159]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.27-19.28.57:382][159]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.29.30:567][707]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.27-19.30.09:961][354]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.27-19.30.10:028][354]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.27-19.30.10:043][354]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.27-19.30.10:082][354]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-19.30.10:086][354]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-19.30.10:089][354]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-19.30.10:093][354]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-19.30.11:500][462]LogMaterialEditor: Saving and Compiling material SwordMat
+[2017.11.27-19.30.11:514][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset" SILENT=true
+[2017.11.27-19.30.11:527][462]LogSavePackage: Save=8.56ms
+[2017.11.27-19.30.11:527][462]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMat5B50AA4844817434C275AB9754A4C267.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset'
+[2017.11.27-19.30.11:529][462]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset
+[2017.11.27-19.30.13:008][580]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-19.30.13:008][580]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-19.30.13:008][580]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-19.30.13:008][580]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-19.30.13:008][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-19.30.37:959][217]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.11.27-19.30.57:277][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat_Inst" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat_Inst.uasset" SILENT=true
+[2017.11.27-19.30.57:297][310]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat_Inst, compiling. 
+[2017.11.27-19.30.57:629][310]TextureStreamingBuild: Display: Compiling optional shaders took 0.335 seconds.
+[2017.11.27-19.30.57:656][310]LogSavePackage: Save=9.28ms
+[2017.11.27-19.30.57:656][310]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMat_InstFC1C7EF740ECB0F70B454F936FF30428.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat_Inst.uasset'
+[2017.11.27-19.30.57:661][310]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat_Inst.uasset
+[2017.11.27-19.31.32:794][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat_Inst" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat_Inst.uasset" SILENT=true
+[2017.11.27-19.31.32:813][ 48]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat_Inst, compiling. 
+[2017.11.27-19.31.33:143][ 48]TextureStreamingBuild: Display: Compiling optional shaders took 0.333 seconds.
+[2017.11.27-19.31.33:168][ 48]LogSavePackage: Save=8.45ms
+[2017.11.27-19.31.33:168][ 48]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMat_Inst1F4DD52D452558CF90F19A84898BB1FE.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat_Inst.uasset'
+[2017.11.27-19.31.33:173][ 48]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat_Inst.uasset
+[2017.11.27-19.31.50:069][626]Cmd: DELETE
+[2017.11.27-19.31.50:069][626]Cmd: ACTOR DELETE
+[2017.11.27-19.31.50:071][626]LogEditorActor: Deleted Actor: Brush
+[2017.11.27-19.31.50:086][626]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.11.27-19.32.25:959][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-19.32.25:987][249]LogSavePackage: Save=22.62ms
+[2017.11.27-19.32.25:987][249]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGenEA3BEB73400F987D31A164A77C3FA902.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-19.32.25:993][249]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-19.33.54:315][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blade0" FILE="C:/Users/James/Documents/UE4SwordGen/Content/blade0.uasset" SILENT=true
+[2017.11.27-19.33.54:331][901]LogSavePackage: Save=13.78ms
+[2017.11.27-19.33.54:331][901]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/blade097E836A8486AB7B2B4F123B43DC34FB2.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/blade0.uasset'
+[2017.11.27-19.33.54:336][901]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/blade0.uasset
+[2017.11.27-19.34.06:994][354]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.27-19.34.48:248][287]BlueprintLog: New page: Compile SwordGen
+[2017.11.27-19.34.50:074][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-19.34.50:100][415]LogSavePackage: Save=22.03ms
+[2017.11.27-19.34.50:100][415]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen3AE7EEE244FD754AE3D594B0D5B8B409.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-19.34.50:105][415]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-19.34.52:722][675]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.34.52:740][675]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.27-19.34.52:742][675]LogPlayLevel: [PlayLevel] Compiling blade0 before play...
+[2017.11.27-19.34.52:985][675]LogPlayLevel: PlayLevel: Blueprint regeneration took 245 ms (1 blueprints)
+[2017.11.27-19.34.52:985][675]PIE: New page: PIE session: map (Nov 27, 2017, 9:34:52 AM)
+[2017.11.27-19.34.52:986][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.34.52:987][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001114s)
+[2017.11.27-19.34.52:987][675]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.34.52:987][675]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2017.11.27-19.34.52:987][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001829s)
+[2017.11.27-19.34.53:009][675]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.34.53:016][675]LogInit: FAudioDevice initialized.
+[2017.11.27-19.34.53:047][675]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.34.53:048][675]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.34.53
+[2017.11.27-19.34.53:048][675]LogWorld: Bringing up level for play took: 0.000526
+[2017.11.27-19.34.53:049][675]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.34.53:049][675]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.34.53:049][675]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.975
+[2017.11.27-19.35.17:625][595]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.35.17:636][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-19.35.17:636][595]PIE: New page: PIE session: map (Nov 27, 2017, 9:35:17 AM)
+[2017.11.27-19.35.17:636][595]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.35.17:637][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001075s)
+[2017.11.27-19.35.17:638][595]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.35.17:638][595]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2017.11.27-19.35.17:638][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001780s)
+[2017.11.27-19.35.17:658][595]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.35.17:664][595]LogInit: FAudioDevice initialized.
+[2017.11.27-19.35.17:694][595]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.35.17:694][595]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.35.17
+[2017.11.27-19.35.17:694][595]LogWorld: Bringing up level for play took: 0.000455
+[2017.11.27-19.35.17:695][595]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.35.17:695][595]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.35.17:696][595]PIE: Play in editor start time for /Game/UEDPIE_0_map -0.378
+[2017.11.27-19.35.22:323][140]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.35.22:334][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-19.35.22:334][140]PIE: New page: PIE session: map (Nov 27, 2017, 9:35:22 AM)
+[2017.11.27-19.35.22:334][140]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.35.22:335][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001209s)
+[2017.11.27-19.35.22:336][140]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.35.22:336][140]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2017.11.27-19.35.22:336][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001959s)
+[2017.11.27-19.35.22:359][140]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.35.22:365][140]LogInit: FAudioDevice initialized.
+[2017.11.27-19.35.22:396][140]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.35.22:397][140]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.35.22
+[2017.11.27-19.35.22:397][140]LogWorld: Bringing up level for play took: 0.000462
+[2017.11.27-19.35.22:398][140]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.35.22:398][140]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.35.22:398][140]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.324
+[2017.11.27-19.35.24:321][367]Set new viewmode: Wireframe
+[2017.11.27-19.35.30:548][107]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.35.30:558][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-19.35.30:558][107]PIE: New page: PIE session: map (Nov 27, 2017, 9:35:30 AM)
+[2017.11.27-19.35.30:558][107]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.35.30:559][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001060s)
+[2017.11.27-19.35.30:560][107]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.35.30:560][107]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2017.11.27-19.35.30:560][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001862s)
+[2017.11.27-19.35.30:584][107]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.35.30:590][107]LogInit: FAudioDevice initialized.
+[2017.11.27-19.35.30:625][107]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.35.30:626][107]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.35.30
+[2017.11.27-19.35.30:626][107]LogWorld: Bringing up level for play took: 0.000448
+[2017.11.27-19.35.30:627][107]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.35.30:627][107]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.35.30:627][107]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.553
+[2017.11.27-19.35.57:047][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/guard0" FILE="C:/Users/James/Documents/UE4SwordGen/Content/guard0.uasset" SILENT=true
+[2017.11.27-19.35.57:063][784]LogSavePackage: Save=14.18ms
+[2017.11.27-19.35.57:063][784]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/guard0D22DDFC5417EF0E1533DF4B50A81B5B1.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/guard0.uasset'
+[2017.11.27-19.35.57:068][784]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/guard0.uasset
+[2017.11.27-19.36.08:579][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hilt0" FILE="C:/Users/James/Documents/UE4SwordGen/Content/hilt0.uasset" SILENT=true
+[2017.11.27-19.36.08:595][892]LogSavePackage: Save=13.08ms
+[2017.11.27-19.36.08:595][892]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/hilt0F65EEAEF4DA623DBDF5263B9640A83D4.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/hilt0.uasset'
+[2017.11.27-19.36.08:600][892]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/hilt0.uasset
+[2017.11.27-19.36.09:574][986]BlueprintLog: New page: Compile hilt0
+[2017.11.27-19.36.12:476][275]BlueprintLog: New page: Compile guard0
+[2017.11.27-19.36.32:722][166]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.27-19.36.42:431][298]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.36.42:445][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-19.36.42:445][298]PIE: New page: PIE session: map (Nov 27, 2017, 9:36:42 AM)
+[2017.11.27-19.36.42:445][298]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.36.42:447][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001134s)
+[2017.11.27-19.36.42:447][298]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.36.42:447][298]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2017.11.27-19.36.42:447][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001964s)
+[2017.11.27-19.36.42:470][298]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.36.42:476][298]LogInit: FAudioDevice initialized.
+[2017.11.27-19.36.42:506][298]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.36.42:506][298]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.36.42
+[2017.11.27-19.36.42:507][298]LogWorld: Bringing up level for play took: 0.000484
+[2017.11.27-19.36.42:508][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.36.42:508][298]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.36.42:508][298]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.433
+[2017.11.27-19.36.46:763][799]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.36.46:778][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-19.36.46:778][799]PIE: New page: PIE session: map (Nov 27, 2017, 9:36:46 AM)
+[2017.11.27-19.36.46:778][799]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.36.46:779][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001147s)
+[2017.11.27-19.36.46:779][799]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.36.46:780][799]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2017.11.27-19.36.46:780][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001962s)
+[2017.11.27-19.36.46:806][799]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.36.46:811][799]LogInit: FAudioDevice initialized.
+[2017.11.27-19.36.46:841][799]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.36.46:842][799]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.36.46
+[2017.11.27-19.36.46:842][799]LogWorld: Bringing up level for play took: 0.000457
+[2017.11.27-19.36.46:843][799]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.36.46:843][799]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.36.46:843][799]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.769
+[2017.11.27-19.37.19:349][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-19.37.19:376][ 90]LogSavePackage: Save=23.71ms
+[2017.11.27-19.37.19:376][ 90]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGenF87E0C1B43969522E422B1A71C92E8CF.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-19.37.19:381][ 90]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-19.37.20:056][144]BlueprintLog: New page: Compile SwordGen
+[2017.11.27-19.37.22:875][383]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.37.22:895][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-19.37.22:896][383]PIE: New page: PIE session: map (Nov 27, 2017, 9:37:22 AM)
+[2017.11.27-19.37.22:896][383]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.37.22:897][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001183s)
+[2017.11.27-19.37.22:897][383]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.37.22:897][383]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2017.11.27-19.37.22:898][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001935s)
+[2017.11.27-19.37.22:920][383]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.37.22:925][383]LogInit: FAudioDevice initialized.
+[2017.11.27-19.37.22:960][383]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.37.22:961][383]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.37.22
+[2017.11.27-19.37.22:961][383]LogWorld: Bringing up level for play took: 0.000462
+[2017.11.27-19.37.22:962][383]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'HiltList' of length 0 in '/Game/SwordGen.SwordGen_C'!
+[2017.11.27-19.37.22:962][383]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2017.11.27-19.37.23:193][383]LogBlueprintUserMessages: [SwordGen_546] Hello
+[2017.11.27-19.37.23:193][383]PIE: Play in editor start time for /Game/UEDPIE_0_map 1.119
+[2017.11.27-19.38.20:381][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.27-19.38.20:402][ 67]LogSavePackage: Save=16.00ms
+[2017.11.27-19.38.20:402][ 67]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_Auto3C3DABA324786A81297717BAE35DB8C8E.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto3.umap'
+[2017.11.27-19.38.20:405][ 67]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto3.umap
+[2017.11.27-19.38.20:411][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map' took 0.051
+[2017.11.27-19.38.20:412][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2017.11.27-19.38.54:550][645]LogEditorTransaction: Undo Delete current selection
+[2017.11.27-19.39.19:743][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-19.39.19:771][196]LogSavePackage: Save=23.17ms
+[2017.11.27-19.39.19:771][196]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen8C7525E14880E8490193B4BBD28B7AD3.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-19.39.19:774][196]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-19.39.38:992][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-19.39.39:020][898]LogSavePackage: Save=24.35ms
+[2017.11.27-19.39.39:020][898]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen797514E840C98BA78BDC79AEA6B55FEB.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-19.39.39:025][898]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-19.39.40:209][  1]BlueprintLog: New page: Compile SwordGen
+[2017.11.27-19.39.43:831][330]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-19.39.43:851][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-19.39.43:851][330]PIE: New page: PIE session: map (Nov 27, 2017, 9:39:43 AM)
+[2017.11.27-19.39.43:851][330]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-19.39.43:852][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001127s)
+[2017.11.27-19.39.43:852][330]LogAIModule: Creating AISystem for world map
+[2017.11.27-19.39.43:852][330]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2017.11.27-19.39.43:853][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001856s)
+[2017.11.27-19.39.43:875][330]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-19.39.43:881][330]LogInit: FAudioDevice initialized.
+[2017.11.27-19.39.43:913][330]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-19.39.43:914][330]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-14.39.43
+[2017.11.27-19.39.43:914][330]LogWorld: Bringing up level for play took: 0.000481
+[2017.11.27-19.39.43:916][330]LogBlueprintUserMessages: [SwordGen_546] Hello
+[2017.11.27-19.39.43:916][330]PIE: Play in editor start time for /Game/UEDPIE_0_map -0.159
+[2017.11.27-19.44.39:116][688]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.27-19.44.39:178][688]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.27-19.44.39:237][688]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.27-19.47.25:051][469]LogEditorTransaction: Undo Move Node
+[2017.11.27-19.48.32:294][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.27-19.48.32:315][771]LogSavePackage: Save=15.53ms
+[2017.11.27-19.48.32:315][771]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_Auto4A246CE2B4D5C65AF11308CB83325C6CB.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto4.umap'
+[2017.11.27-19.48.32:318][771]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto4.umap
+[2017.11.27-19.48.32:324][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map' took 0.051
+[2017.11.27-19.48.32:324][771]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2017.11.27-19.48.32:327][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SwordGen] ([1] browsable assets)...
+[2017.11.27-19.48.32:327][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/SwordGen]
+[2017.11.27-19.48.32:327][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/SwordGen_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2017.11.27-19.48.32:365][771]LogSavePackage: Save=32.79ms
+[2017.11.27-19.48.32:365][771]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen_Auto478C204F94C3CFF4D1EA599BD11AB8F33.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/SwordGen_Auto4.uasset'
+[2017.11.27-19.48.32:367][771]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/SwordGen_Auto4.uasset
+[2017.11.27-19.48.32:367][771]LogFileHelpers: Auto-saving content packages took 0.042
+[2017.11.27-19.57.24:491][681]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.27-20.00.45:550][126]LogMetaData: Removing '/Game/hilt1.SKEL_hilt1_C' ref from Metadata '/Game/hilt0_2.PackageMetaData'
+[2017.11.27-20.00.45:550][126]LogMetaData: Removing '/Game/hilt1.hilt1_C' ref from Metadata '/Game/hilt0_2.PackageMetaData'
+[2017.11.27-20.00.45:587][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hilt1" FILE="C:/Users/James/Documents/UE4SwordGen/Content/hilt1.uasset" SILENT=true
+[2017.11.27-20.00.45:601][126]LogSavePackage: Save=12.28ms
+[2017.11.27-20.00.45:601][126]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/hilt15ACFF4714ABC7537C8603093B77CEA79.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/hilt1.uasset'
+[2017.11.27-20.00.45:612][126]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/hilt1.uasset
+[2017.11.27-20.01.36:630][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-20.01.36:675][351]LogSavePackage: Save=39.93ms
+[2017.11.27-20.01.36:675][351]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen5B326CF6438ABE4C76F09FA338A18E16.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-20.01.36:682][351]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-20.01.37:393][418]BlueprintLog: New page: Compile SwordGen
+[2017.11.27-20.01.52:963][123]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.27-20.02.12:545][409]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-20.02.12:565][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-20.02.12:565][409]PIE: New page: PIE session: map (Nov 27, 2017, 10:02:12 AM)
+[2017.11.27-20.02.12:565][409]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-20.02.12:566][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001143s)
+[2017.11.27-20.02.12:567][409]LogAIModule: Creating AISystem for world map
+[2017.11.27-20.02.12:567][409]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2017.11.27-20.02.12:567][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001962s)
+[2017.11.27-20.02.12:587][409]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-20.02.12:593][409]LogInit: FAudioDevice initialized.
+[2017.11.27-20.02.12:622][409]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-20.02.12:623][409]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-15.02.12
+[2017.11.27-20.02.12:623][409]LogWorld: Bringing up level for play took: 0.000515
+[2017.11.27-20.02.12:863][409]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsHilt_1
+	SwordGen_C /Game/UEDPIE_0_map.map:PersistentLevel.SwordGen_546
+	Function /Game/SwordGen.SwordGen_C:ExecuteUbergraph_SwordGen:0433
+[2017.11.27-20.02.12:863][409]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsHilt_1 from function: 'ExecuteUbergraph_SwordGen' from node: Set Material in graph: EventGraph in object: SwordGen with description: Accessed None trying to read property K2Node_DynamicCast_AsHilt_1
+[2017.11.27-20.02.12:863][409]LogScript: Warning: Accessed None
+	SwordGen_C /Game/UEDPIE_0_map.map:PersistentLevel.SwordGen_546
+	Function /Game/SwordGen.SwordGen_C:ExecuteUbergraph_SwordGen:0448
+[2017.11.27-20.02.12:864][409]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_SwordGen' from node: Set Material in graph: EventGraph in object: SwordGen with description: Accessed None
+[2017.11.27-20.02.12:864][409]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.789
+[2017.11.27-20.03.30:572][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.27-20.03.30:598][371]LogSavePackage: Save=16.24ms
+[2017.11.27-20.03.30:598][371]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_Auto560D21FFC408C90BA4BC13794A242CF65.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto5.umap'
+[2017.11.27-20.03.30:601][371]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/map_Auto5.umap
+[2017.11.27-20.03.30:603][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/map' took 0.050
+[2017.11.27-20.03.30:603][371]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.050
+[2017.11.27-20.03.30:605][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SwordGen] ([1] browsable assets)...
+[2017.11.27-20.03.30:605][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/SwordGen]
+[2017.11.27-20.03.30:605][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/SwordGen_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2017.11.27-20.03.30:651][371]LogSavePackage: Save=42.04ms
+[2017.11.27-20.03.30:651][371]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen_Auto5D54A76CF43C14E4DCA1D62B445CFA19B.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/SwordGen_Auto5.uasset'
+[2017.11.27-20.03.30:654][371]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Saved/Autosaves/Game/SwordGen_Auto5.uasset
+[2017.11.27-20.03.30:654][371]LogFileHelpers: Auto-saving content packages took 0.050
+[2017.11.27-20.06.17:049][924]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.06.17:120][924]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.06.17:134][924]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.06.17:173][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-20.06.17:176][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-20.06.17:180][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-20.06.17:183][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-20.06.32:260][468]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.06.32:274][468]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.06.36:023][827]MaterialEditorStats: Base pass shader: 104 instructions
+[2017.11.27-20.06.36:023][827]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2017.11.27-20.06.36:023][827]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-20.06.36:023][827]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-20.06.36:023][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-20.06.37:632][985]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.06.43:109][530]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.27-20.06.43:109][530]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.27-20.06.43:109][530]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-20.06.43:109][530]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-20.06.43:109][530]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-20.06.58:972][ 99]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.07.03:427][500]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.27-20.07.03:427][500]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.27-20.07.03:427][500]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-20.07.03:427][500]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-20.07.03:427][500]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-20.07.05:506][702]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.07.12:440][386]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.07.12:453][386]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.07.15:479][679]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.27-20.07.15:479][679]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.27-20.07.15:479][679]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-20.07.15:479][679]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-20.07.15:479][679]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-20.07.21:279][249]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.07.25:326][618]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.27-20.07.25:326][618]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.27-20.07.25:326][618]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-20.07.25:326][618]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-20.07.25:326][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-20.07.44:190][541]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.07.44:256][542]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.11.27-20.07.46:716][757]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.07.52:177][225]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.27-20.07.52:177][225]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.27-20.07.52:177][225]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-20.07.52:177][225]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-20.07.52:177][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-20.09.12:887][554]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.09.12:949][555]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.11.27-20.09.16:185][843]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.27-20.09.16:185][843]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.27-20.09.16:185][843]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-20.09.16:185][843]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-20.09.16:185][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-20.09.54:416][920]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.09.57:050][156]MaterialEditorStats: Base pass shader: 109 instructions
+[2017.11.27-20.09.57:050][156]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2017.11.27-20.09.57:050][156]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.27-20.09.57:050][156]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.27-20.09.57:050][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.27-20.11.08:778][439]AssetReimport: New page: Outstanding source content changes 10:11:08 AM
+[2017.11.27-20.11.08:779][439]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/James/Documents/UE4SwordGen/Content/noise.jpg)
+[2017.11.27-20.11.08:862][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/noise" FILE="C:/Users/James/Documents/UE4SwordGen/Content/noise.uasset" SILENT=true
+[2017.11.27-20.11.08:878][440]LogSavePackage: Save=13.71ms
+[2017.11.27-20.11.08:878][440]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/noise3751F0C34303CCE6A7A37391404DCDBF.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/noise.uasset'
+[2017.11.27-20.11.08:882][440]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/noise.uasset
+[2017.11.27-20.11.11:891][691]AssetReimport: Importing new asset /Game/noise.
+[2017.11.27-20.11.12:835][792]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.11.27-20.11.12:847][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.11.27-20.11.12:875][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.27-20.11.12:879][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.27-20.11.12:882][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.27-20.11.12:886][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.27-20.11.12:889][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 

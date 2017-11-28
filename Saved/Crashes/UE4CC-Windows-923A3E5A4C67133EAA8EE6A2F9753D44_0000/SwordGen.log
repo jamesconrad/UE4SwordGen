@@ -1,0 +1,597 @@
+﻿Log file open, 11/27/17 17:56:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SwordGen
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1705893050) SRandInit(-1705893050).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.165789
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.27-22.56.18:908][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-22.56.18:908][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.27-22.56.18:919][  0]LogInit: Computer: SOLACE
+[2017.11.27-22.56.18:919][  0]LogInit: User: James
+[2017.11.27-22.56.18:919][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.27-22.56.18:919][  0]LogInit: High frequency timer resolution =3.320341 MHz
+[2017.11.27-22.56.18:919][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2017.11.27-22.56.18:919][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.27-22.56.18:919][  0]LogMemory: Process Physical Memory: 273.28 MB used, 273.28 MB peak
+[2017.11.27-22.56.18:919][  0]LogMemory: Process Virtual Memory: 271.74 MB used, 271.74 MB peak
+[2017.11.27-22.56.18:919][  0]LogMemory: Physical Memory: 5473.43 MB used,  18997.63 MB free, 24471.07 MB total
+[2017.11.27-22.56.18:919][  0]LogMemory: Virtual Memory: 631.29 MB used,  18997.63 MB free, 134217728.00 MB total
+[2017.11.27-22.56.19:049][  0]LogInit: Using OS detected language (en-US).
+[2017.11.27-22.56.19:049][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.27-22.56.19:052][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.27-22.56.19:399][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.27-22.56.19:648][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.27-22.56.19:679][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 670' (Feature Level 11_0)
+[2017.11.27-22.56.19:679][  0]LogD3D11RHI:       2017/0/12235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.27-22.56.19:682][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2017.11.27-22.56.19:682][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.27-22.56.19:683][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.27-22.56.19:684][  0]LogD3D11RHI:       0/0/12235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.27-22.56.19:684][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.27-22.56.19:688][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.27-22.56.19:688][  0]LogD3D11RHI:     GPU DeviceId: 0x1189 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.27-22.56.19:688][  0]LogWindows: EnumDisplayDevices:
+[2017.11.27-22.56.19:688][  0]LogWindows:    0. 'NVIDIA GeForce GTX 670' (P:1 D:1)
+[2017.11.27-22.56.19:688][  0]LogWindows:    1. 'NVIDIA GeForce GTX 670' (P:0 D:1)
+[2017.11.27-22.56.19:688][  0]LogWindows:    2. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.27-22.56.19:688][  0]LogWindows:    3. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.27-22.56.19:688][  0]LogWindows:    4. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.27-22.56.19:689][  0]LogWindows:    5. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.27-22.56.19:689][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.27-22.56.19:689][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.27-22.56.19:689][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 670
+[2017.11.27-22.56.19:689][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2017.11.27-22.56.19:689][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2017.11.27-22.56.19:689][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.11.27-22.56.19:710][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.27-22.56.19:726][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.27-22.56.19:780][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (C:/Users/James/Documents/UE4SwordGen/Intermediate/Shaders/WorkingDirectory/11364/).
+[2017.11.27-22.56.19:780][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/89E5E4274FB99937A50635B7CAE82A50/'.
+[2017.11.27-22.56.19:780][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.27-22.56.20:662][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.27-22.56.20:704][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.27-22.56.20:747][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.27-22.56.20:795][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.27-22.56.20:838][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.27-22.56.20:881][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.27-22.56.20:923][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.27-22.56.20:967][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.27-22.56.21:005][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.27-22.56.21:050][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.27-22.56.21:101][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.27-22.56.21:146][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.27-22.56.21:187][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.27-22.56.21:229][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.27-22.56.21:311][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.27-22.56.21:311][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.27-22.56.21:350][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.27-22.56.21:383][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.27-22.56.21:460][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.27-22.56.21:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.27-22.56.21:522][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.27-22.56.21:566][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.27-22.56.21:606][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.27-22.56.21:648][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.27-22.56.21:648][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.27-22.56.22:008][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.27-22.56.22:072][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.27-22.56.22:073][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.27-22.56.22:073][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/James/Documents/UE4SwordGen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.27-22.56.22:073][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.27-22.56.22:073][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/James/Documents/UE4SwordGen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.27-22.56.22:073][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.27-22.56.22:085][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.27-22.56.22:097][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.27-22.56.22:105][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.27-22.56.22:106][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.27-22.56.22:106][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-22.56.22:106][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-22.56.22:470][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-22.56.22:735][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.27-22.56.22:766][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.27-22.56.22:766][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.27-22.56.22:766][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.27-22.56.22:766][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.27-22.56.22:766][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.27-22.56.22:799][  0]LogNetVersion: SwordGen , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3122522569)
+[2017.11.27-22.56.22:940][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2017.11.27-22.56.23:419][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.088764 seconds
+[2017.11.27-22.56.23:426][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.27-22.56.23:426][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.11.27-22.56.23:426][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.27-22.56.23:465][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.27-22.56.25:702][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.27-22.56.25:742][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.27-22.56.26:316][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.27-22.56.26:670][  0]SourceControl: Source control is disabled
+[2017.11.27-22.56.26:670][  0]SourceControl: Source control is disabled
+[2017.11.27-22.56.26:716][  0]SourceControl: Source control is disabled
+[2017.11.27-22.56.26:764][  0]SourceControl: Source control is disabled
+[2017.11.27-22.56.27:485][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.27-22.56.27:715][  0]LogOcInput: OculusInput pre-init called
+[2017.11.27-22.56.27:955][  0]LogEngine: Initializing Engine...
+[2017.11.27-22.56.27:957][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.27-22.56.28:144][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.27-22.56.28:144][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.27-22.56.28:240][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.27-22.56.28:254][  0]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-22.56.28:265][  0]LogInit: FAudioDevice initialized.
+[2017.11.27-22.56.28:369][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.27-22.56.28:381][  0]LogInit: Texture streaming: Enabled
+[2017.11.27-22.56.28:454][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.27-22.56.28:454][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D8AE4C8A-4502-DFA0-7B9A-02BFDF9C97AB}
+[2017.11.27-22.56.28:553][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-22.56.28:582][  0]LogInit: Transaction tracking system initialized
+[2017.11.27-22.56.28:816][  0]BlueprintLog: New page: Editor Load
+[2017.11.27-22.56.29:550][  0]LocalizationService: Localization service is disabled
+[2017.11.27-22.56.30:149][  0]LogConsoleResponse: Display: 
+[2017.11.27-22.56.30:299][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.27-22.56.30:299][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.27-22.56.30:299][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.27-22.56.30:660][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/' took 0.01s
+[2017.11.27-22.56.31:306][  0]SourceControl: Source control is disabled
+[2017.11.27-22.56.31:306][  0]Cmd: MAP LOAD FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.27-22.56.31:306][  0]LightingResults: New page: Lighting Build
+[2017.11.27-22.56.31:337][  0]MapCheck: New page: Map Check
+[2017.11.27-22.56.31:337][  0]LightingResults: New page: Lighting Build
+[2017.11.27-22.56.31:432][  0]LogLinker: Warning: Can't find file '/Game/hilt0'
+[2017.11.27-22.56.31:432][  0]LogLinker: Warning: Can't find file for asset '/Game/hilt0' while loading C:/Users/James/Documents/UE4SwordGen/Content/map.umap.
+[2017.11.27-22.56.31:432][  0]LoadErrors: Error: /Game/map : Can't find file for asset. /Game/hilt0
+[2017.11.27-22.56.31:432][  0]LogLinker: Warning: Can't find file '/Game/hilt1'
+[2017.11.27-22.56.31:432][  0]LogLinker: Warning: Can't find file for asset '/Game/hilt1' while loading C:/Users/James/Documents/UE4SwordGen/Content/map.umap.
+[2017.11.27-22.56.31:432][  0]LoadErrors: Error: /Game/map : Can't find file for asset. /Game/hilt1
+[2017.11.27-22.56.31:456][  0]LogLinker: Warning: Can't find file '/Game/hilt0'
+[2017.11.27-22.56.31:456][  0]LogLinker: Warning: Can't find file for asset '/Game/hilt0' while loading C:/Users/James/Documents/UE4SwordGen/Content/map.umap.
+[2017.11.27-22.56.31:456][  0]LoadErrors: Error: /Game/map : Can't find file for asset. /Game/hilt0
+[2017.11.27-22.56.31:456][  0]LogLinker: Warning: Can't find file '/Game/hilt1'
+[2017.11.27-22.56.31:456][  0]LogLinker: Warning: Can't find file for asset '/Game/hilt1' while loading C:/Users/James/Documents/UE4SwordGen/Content/map.umap.
+[2017.11.27-22.56.31:456][  0]LoadErrors: Error: /Game/map : Can't find file for asset. /Game/hilt1
+[2017.11.27-22.56.31:462][  0]LogLinker: Warning: Can't find file '/Game/hilt0'
+[2017.11.27-22.56.31:462][  0]LoadErrors: Failed to load /Game/hilt0.hilt0_C Referenced by SwordGen_546
+[2017.11.27-22.56.31:462][  0]LogLinker: Warning: Can't find file for asset '/Game/hilt0' while loading NULL.
+[2017.11.27-22.56.31:462][  0]LoadErrors: Failed to load /Game/hilt0.hilt0_C Referenced by SwordGen_546
+[2017.11.27-22.56.31:462][  0]LogLinker: Warning: Can't find file '/Game/hilt1'
+[2017.11.27-22.56.31:462][  0]LoadErrors: Failed to load /Game/hilt1.hilt1_C Referenced by SwordGen_546
+[2017.11.27-22.56.31:462][  0]LogLinker: Warning: Can't find file for asset '/Game/hilt1' while loading NULL.
+[2017.11.27-22.56.31:462][  0]LoadErrors: Failed to load /Game/hilt1.hilt1_C Referenced by SwordGen_546
+[2017.11.27-22.56.31:542][  0]LogAIModule: Creating AISystem for world map
+[2017.11.27-22.56.31:546][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.27-22.56.31:555][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.27-22.56.31:601][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.197ms to complete.
+[2017.11.27-22.56.31:602][  0]LogFileHelpers: Loading map 'map' took 0.296
+[2017.11.27-22.56.31:734][  0]LogCollectionManager: Loaded 0 collections in 0.001669 seconds
+[2017.11.27-22.56.31:811][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Saved/Collections/' took 0.01s
+[2017.11.27-22.56.31:811][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/Developers/James/Collections/' took 0.01s
+[2017.11.27-22.56.31:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/Collections/' took 0.01s
+[2017.11.27-22.56.31:812][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.27-22.56.31:819][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2363 classes and 519 folders.
+[2017.11.27-22.56.31:865][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.27-22.56.31:906][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.27-22.56.31:939][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.27-22.56.31:991][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-22.56.31:993][  0]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.27-22.56.31:999][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.27-22.56.32:083][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.27-22.56.32:118][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-22.56.32:217][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.27-22.56.32:217][  0]LogLoad: (Engine Initialization) Total time: 15.72 seconds
+[2017.11.27-22.56.32:217][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.27-22.56.32:217][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.27-22.56.32:217][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.27-22.56.32:243][  0]LogAssetRegistry: Asset discovery search completed in 9.3251 seconds
+[2017.11.27-22.56.32:245][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.27-22.56.32:245][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2017.11.27-22.56.32:248][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.27-22.56.33:243][102]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-22.56.39:085][770]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-22.56.39:353][770]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2017.11.27-22.56.39:999][770]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.27-22.56.40:149][771]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.27-22.56.54:901][337]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.27-22.57.19:793][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-22.57.19:834][912]LogSavePackage: Save=15.72ms
+[2017.11.27-22.57.19:834][912]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map4D7F11C5480A9FD9607405A1C5CF3DFB.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map.umap'
+[2017.11.27-22.57.19:839][912]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map.umap
+[2017.11.27-22.57.19:858][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_BuiltData" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset" SILENT=true
+[2017.11.27-22.57.19:872][912]LogSavePackage: Save=8.88ms
+[2017.11.27-22.57.19:872][912]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_BuiltData3BFF2EE94B0A0845C99DE4B1D0055037.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset'
+[2017.11.27-22.57.19:876][912]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset
+[2017.11.27-22.57.50:653][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-22.57.50:687][176]LogSavePackage: Save=15.00ms
+[2017.11.27-22.57.50:687][176]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/mapD30D942940B8D7A4FBF7729C8C69AAFA.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map.umap'
+[2017.11.27-22.57.50:692][176]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map.umap
+[2017.11.27-22.57.50:709][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_BuiltData" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset" SILENT=true
+[2017.11.27-22.57.50:720][176]LogSavePackage: Save=7.20ms
+[2017.11.27-22.57.50:720][176]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_BuiltData2FB6FEEA4781F0A3709ED69F082A0601.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset'
+[2017.11.27-22.57.50:723][176]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset
+[2017.11.27-22.58.33:656][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.27-22.58.33:692][893]LogSavePackage: Save=14.65ms
+[2017.11.27-22.58.33:692][893]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/mapF8AC1D7F4378CFF171E3EFA293E6299D.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map.umap'
+[2017.11.27-22.58.33:698][893]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map.umap
+[2017.11.27-22.58.33:715][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_BuiltData" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset" SILENT=true
+[2017.11.27-22.58.33:726][893]LogSavePackage: Save=6.73ms
+[2017.11.27-22.58.33:726][893]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_BuiltData7E177B064E2C7BE88DA1A0B86E56E96A.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset'
+[2017.11.27-22.58.33:729][893]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset
+[2017.11.27-22.58.34:937][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-22.58.34:964][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-22.58.34:965][ 13]PIE: New page: PIE session: map (Nov 27, 2017, 12:58:34 PM)
+[2017.11.27-22.58.34:965][ 13]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-22.58.34:966][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001159s)
+[2017.11.27-22.58.34:966][ 13]LogAIModule: Creating AISystem for world map
+[2017.11.27-22.58.34:967][ 13]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2017.11.27-22.58.34:967][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001916s)
+[2017.11.27-22.58.34:987][ 13]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-22.58.34:992][ 13]LogInit: FAudioDevice initialized.
+[2017.11.27-22.58.35:038][ 13]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-22.58.35:040][ 13]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-17.58.35
+[2017.11.27-22.58.35:040][ 13]LogWorld: Bringing up level for play took: 0.000568
+[2017.11.27-22.58.35:070][ 13]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.27-22.58.35:072][ 13]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.998
+[2017.11.27-22.59.20:128][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-22.59.20:195][678]LogSavePackage: Save=59.35ms
+[2017.11.27-22.59.20:195][678]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen06535B0D416CBB7251297788FB96704D.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-22.59.20:202][678]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-22.59.21:401][794]BlueprintLog: New page: Compile SwordGen
+[2017.11.27-22.59.24:934][125]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-22.59.24:953][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-22.59.24:953][125]PIE: New page: PIE session: map (Nov 27, 2017, 12:59:24 PM)
+[2017.11.27-22.59.24:954][125]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-22.59.24:955][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001160s)
+[2017.11.27-22.59.24:955][125]LogAIModule: Creating AISystem for world map
+[2017.11.27-22.59.24:955][125]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2017.11.27-22.59.24:956][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002029s)
+[2017.11.27-22.59.24:974][125]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-22.59.24:980][125]LogInit: FAudioDevice initialized.
+[2017.11.27-22.59.25:010][125]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-22.59.25:011][125]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-17.59.25
+[2017.11.27-22.59.25:011][125]LogWorld: Bringing up level for play took: 0.000461
+[2017.11.27-22.59.25:028][125]LogBlueprintUserMessages: [SwordGen_546] true
+[2017.11.27-22.59.25:029][125]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.955
+[2017.11.27-23.00.42:006][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-23.00.42:065][447]LogSavePackage: Save=55.44ms
+[2017.11.27-23.00.42:065][447]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen3E8469CF464185D587E9DF83CC9BE2DD.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-23.00.42:072][447]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-23.00.43:998][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/baseComponent" FILE="C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset" SILENT=true
+[2017.11.27-23.00.44:011][652]LogSavePackage: Save=6.58ms
+[2017.11.27-23.00.44:011][652]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/baseComponent6ABD4E7A44E16C4C4A663D99A9949DC4.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset'
+[2017.11.27-23.00.44:016][652]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset
+[2017.11.27-23.00.48:910][188]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-23.00.48:922][188]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.27-23.00.48:932][188]LogPlayLevel: [PlayLevel] Compiling SwordGen before play...
+[2017.11.27-23.00.49:179][188]LogPlayLevel: PlayLevel: Blueprint regeneration took 257 ms (1 blueprints)
+[2017.11.27-23.00.49:179][188]PIE: New page: PIE session: map (Nov 27, 2017, 1:00:49 PM)
+[2017.11.27-23.00.49:179][188]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-23.00.49:180][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001099s)
+[2017.11.27-23.00.49:180][188]LogAIModule: Creating AISystem for world map
+[2017.11.27-23.00.49:181][188]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2017.11.27-23.00.49:181][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001841s)
+[2017.11.27-23.00.49:203][188]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-23.00.49:209][188]LogInit: FAudioDevice initialized.
+[2017.11.27-23.00.49:243][188]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-23.00.49:244][188]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-18.00.49
+[2017.11.27-23.00.49:244][188]LogWorld: Bringing up level for play took: 0.000461
+[2017.11.27-23.00.49:246][188]PIE: Play in editor start time for /Game/UEDPIE_0_map 1.172
+[2017.11.27-23.07.06:912][556]LogBlueprint: Warning: [SwordGen] 'StaticMesh' variable not found. Base class was probably changed. /Game/SwordGen.SwordGen
+[2017.11.27-23.07.12:980][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-23.07.13:041][171]LogSavePackage: Save=55.10ms
+[2017.11.27-23.07.13:041][171]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGen2414F9DF46784843E829CBB221C5BD22.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-23.07.13:047][171]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-23.07.21:008][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/baseComponent" FILE="C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset" SILENT=true
+[2017.11.27-23.07.21:022][ 41]LogSavePackage: Save=7.31ms
+[2017.11.27-23.07.21:022][ 41]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/baseComponentD8267E224ECA99C51D03428E6D146BAE.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset'
+[2017.11.27-23.07.21:028][ 41]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset
+[2017.11.27-23.07.22:220][160]BlueprintLog: New page: Compile baseComponent
+[2017.11.27-23.07.22:401][160]BlueprintLog: New page: Compile baseComponent
+[2017.11.27-23.08.35:372][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-23.08.35:432][454]LogSavePackage: Save=55.32ms
+[2017.11.27-23.08.35:432][454]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGenB2C1CB774FFA4952BC073A926F49076F.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-23.08.35:437][454]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-23.08.36:434][556]BlueprintLog: New page: Compile SwordGen
+[2017.11.27-23.08.36:459][556]LogBlueprint: Error: [Compiler SwordGen] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2017.11.27-23.08.36:459][556]LogBlueprint: Error: [Compiler SwordGen] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2017.11.27-23.08.36:554][556]LogBlueprint: Warning: [Compiler SwordGen] [0740.05] Compile of SwordGen failed. 2 Fatal Issue(s) 0 Warning(s) [in 118 ms] (/Game/SwordGen.SwordGen)
+[2017.11.27-23.08.52:376][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordGen" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset" SILENT=true
+[2017.11.27-23.08.52:432][171]LogSavePackage: Save=51.09ms
+[2017.11.27-23.08.52:432][171]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordGenBCEA5A7443D3608404DD07B51AC61241.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset'
+[2017.11.27-23.08.52:437][171]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordGen.uasset
+[2017.11.27-23.08.53:176][248]BlueprintLog: New page: Compile SwordGen
+[2017.11.27-23.08.56:238][573]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-23.08.56:261][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-23.08.56:261][573]PIE: New page: PIE session: map (Nov 27, 2017, 1:08:56 PM)
+[2017.11.27-23.08.56:261][573]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-23.08.56:262][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001056s)
+[2017.11.27-23.08.56:263][573]LogAIModule: Creating AISystem for world map
+[2017.11.27-23.08.56:263][573]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2017.11.27-23.08.56:263][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002011s)
+[2017.11.27-23.08.56:283][573]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-23.08.56:289][573]LogInit: FAudioDevice initialized.
+[2017.11.27-23.08.56:320][573]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-23.08.56:321][573]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-18.08.56
+[2017.11.27-23.08.56:321][573]LogWorld: Bringing up level for play took: 0.000453
+[2017.11.27-23.08.56:323][573]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.249
+[2017.11.27-23.09.25:620][  0]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-23.09.25:631][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-23.09.25:631][  0]PIE: New page: PIE session: map (Nov 27, 2017, 1:09:25 PM)
+[2017.11.27-23.09.25:631][  0]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-23.09.25:633][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001247s)
+[2017.11.27-23.09.25:633][  0]LogAIModule: Creating AISystem for world map
+[2017.11.27-23.09.25:633][  0]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2017.11.27-23.09.25:633][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001985s)
+[2017.11.27-23.09.25:653][  0]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-23.09.25:659][  0]LogInit: FAudioDevice initialized.
+[2017.11.27-23.09.25:692][  0]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-23.09.25:693][  0]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-18.09.25
+[2017.11.27-23.09.25:693][  0]LogWorld: Bringing up level for play took: 0.000470
+[2017.11.27-23.09.25:694][  0]PIE: Play in editor start time for /Game/UEDPIE_0_map -0.379
+[2017.11.27-23.09.56:478][661]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-23.09.56:490][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-23.09.56:490][661]PIE: New page: PIE session: map (Nov 27, 2017, 1:09:56 PM)
+[2017.11.27-23.09.56:490][661]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-23.09.56:491][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001042s)
+[2017.11.27-23.09.56:491][661]LogAIModule: Creating AISystem for world map
+[2017.11.27-23.09.56:492][661]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2017.11.27-23.09.56:492][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001746s)
+[2017.11.27-23.09.56:513][661]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-23.09.56:519][661]LogInit: FAudioDevice initialized.
+[2017.11.27-23.09.56:553][661]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-23.09.56:554][661]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-18.09.56
+[2017.11.27-23.09.56:554][661]LogWorld: Bringing up level for play took: 0.000488
+[2017.11.27-23.09.56:556][661]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.482
+[2017.11.27-23.11.43:640][906]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2017.11.27-23.12.14:358][739]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2017.11.27-23.12.15:835][875]Cmd: DELETE
+[2017.11.27-23.12.15:835][875]Cmd: ACTOR DELETE
+[2017.11.27-23.12.16:142][875]LogEditorActor: Deleted Actor: DefaultPawn
+[2017.11.27-23.12.16:158][875]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2017.11.27-23.12.52:939][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/baseComponent" FILE="C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset" SILENT=true
+[2017.11.27-23.12.52:953][142]LogSavePackage: Save=7.32ms
+[2017.11.27-23.12.52:954][142]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/baseComponent8E3A5CC544CD391CC91954BE6B564864.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset'
+[2017.11.27-23.12.52:959][142]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/baseComponent.uasset
+[2017.11.27-23.12.54:109][255]BlueprintLog: New page: Compile baseComponent
+[2017.11.27-23.12.56:449][488]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-23.12.56:461][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-23.12.56:461][488]PIE: New page: PIE session: map (Nov 27, 2017, 1:12:56 PM)
+[2017.11.27-23.12.56:461][488]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.27-23.12.56:462][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001161s)
+[2017.11.27-23.12.56:462][488]LogAIModule: Creating AISystem for world map
+[2017.11.27-23.12.56:463][488]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2017.11.27-23.12.56:463][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.001996s)
+[2017.11.27-23.12.56:483][488]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.27-23.12.56:489][488]LogInit: FAudioDevice initialized.
+[2017.11.27-23.12.56:524][488]LogLoad: Game class is 'GameModeBase'
+[2017.11.27-23.12.56:525][488]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-18.12.56
+[2017.11.27-23.12.56:525][488]LogWorld: Bringing up level for play took: 0.000460
+[2017.11.27-23.12.56:527][488]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.453
+[2017.11.27-23.13.01:049][925]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2017.11.27-23.13.01:959][ 12]Cmd: DELETE
+[2017.11.27-23.13.01:959][ 12]Cmd: ACTOR DELETE
+[2017.11.27-23.13.01:960][ 12]LogEditorActor: Deleted Actor: DefaultPawn
+[2017.11.27-23.13.01:974][ 12]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.11.27-23.15.56:220][267]LogUObjectBase: Warning: Object is not registered
+[2017.11.27-23.15.56:841][267]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.621 s
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: 
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: Stack: 
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003F782786 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003F52123A UE4Editor-Core.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003F53B906 UE4Editor-Core.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x00000000388832B6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x00000000366003AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x0000000035623EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x00000000354B74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x00000000354BABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x00000000355E8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003E857397 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003E85CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003EA99913 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003E8B3484 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003E88B68C UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000003E87D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000004EDEE39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000004EDE1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000004EDF03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000004EDDD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x0000000070BABC50 USER32.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x0000000070BAB5CF USER32.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000004EDF1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000005ED850C8 UE4Editor.exe!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000005ED95430 UE4Editor.exe!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000005ED954AA UE4Editor.exe!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000005EDA2379 UE4Editor.exe!UnknownFunction []
+[2017.11.27-23.15.56:841][267]LogOutputDevice: Error: [Callstack] 0x000000005EDA3D57 UE4Editor.exe!UnknownFunction []
+[2017.11.27-23.15.56:842][267]LogOutputDevice: Error: [Callstack] 0x000000006E562774 KERNEL32.DLL!UnknownFunction []
+[2017.11.27-23.15.56:842][267]LogOutputDevice: Error: [Callstack] 0x0000000070D60D51 ntdll.dll!UnknownFunction []
+[2017.11.27-23.15.56:842][267]LogOutputDevice: Error: 
+[2017.11.27-23.15.56:842][267]LogStats:                SubmitErrorReport -  0.000 s

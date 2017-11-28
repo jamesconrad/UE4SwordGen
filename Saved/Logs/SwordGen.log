@@ -1,0 +1,1018 @@
+﻿Log file open, 11/27/17 23:15:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SwordGen
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1835189152) SRandInit(1835189152).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169586
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.28-04.15.54:748][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.28-04.15.54:748][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.28-04.15.54:756][  0]LogInit: Computer: SOLACE
+[2017.11.28-04.15.54:756][  0]LogInit: User: James
+[2017.11.28-04.15.54:756][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.28-04.15.54:756][  0]LogInit: High frequency timer resolution =3.320341 MHz
+[2017.11.28-04.15.54:756][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2017.11.28-04.15.54:756][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.28-04.15.54:756][  0]LogMemory: Process Physical Memory: 272.38 MB used, 272.38 MB peak
+[2017.11.28-04.15.54:756][  0]LogMemory: Process Virtual Memory: 263.73 MB used, 263.73 MB peak
+[2017.11.28-04.15.54:756][  0]LogMemory: Physical Memory: 5493.57 MB used,  18977.50 MB free, 24471.07 MB total
+[2017.11.28-04.15.54:756][  0]LogMemory: Virtual Memory: 623.29 MB used,  18977.50 MB free, 134217728.00 MB total
+[2017.11.28-04.15.55:370][  0]LogInit: Using OS detected language (en-US).
+[2017.11.28-04.15.55:370][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.28-04.15.55:373][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.28-04.15.55:701][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.28-04.15.55:930][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.28-04.15.56:037][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 670' (Feature Level 11_0)
+[2017.11.28-04.15.56:037][  0]LogD3D11RHI:       2017/0/12235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.28-04.15.56:066][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2017.11.28-04.15.56:066][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.28-04.15.56:067][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.28-04.15.56:067][  0]LogD3D11RHI:       0/0/12235 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.28-04.15.56:067][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.28-04.15.56:072][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.28-04.15.56:072][  0]LogD3D11RHI:     GPU DeviceId: 0x1189 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.28-04.15.56:072][  0]LogWindows: EnumDisplayDevices:
+[2017.11.28-04.15.56:072][  0]LogWindows:    0. 'NVIDIA GeForce GTX 670' (P:1 D:1)
+[2017.11.28-04.15.56:072][  0]LogWindows:    1. 'NVIDIA GeForce GTX 670' (P:0 D:1)
+[2017.11.28-04.15.56:073][  0]LogWindows:    2. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.28-04.15.56:073][  0]LogWindows:    3. 'NVIDIA GeForce GTX 670' (P:0 D:0)
+[2017.11.28-04.15.56:073][  0]LogWindows:    4. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.28-04.15.56:073][  0]LogWindows:    5. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.28-04.15.56:073][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.11.28-04.15.56:073][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.28-04.15.56:073][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 670
+[2017.11.28-04.15.56:073][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2017.11.28-04.15.56:073][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2017.11.28-04.15.56:073][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.11.28-04.15.56:096][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.28-04.15.56:112][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.28-04.15.56:164][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (C:/Users/James/Documents/UE4SwordGen/Intermediate/Shaders/WorkingDirectory/496/).
+[2017.11.28-04.15.56:164][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/3C90B8DD4E32144B891D4FA50FBE3C84/'.
+[2017.11.28-04.15.56:164][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.28-04.15.56:956][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.28-04.15.57:000][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.28-04.15.57:047][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.28-04.15.57:089][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.28-04.15.57:132][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.28-04.15.57:175][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.28-04.15.57:217][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.28-04.15.57:262][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.28-04.15.57:301][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.28-04.15.57:344][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.28-04.15.57:386][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.28-04.15.57:427][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.28-04.15.57:466][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.28-04.15.57:508][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.28-04.15.57:589][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.28-04.15.57:589][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.28-04.15.57:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.28-04.15.57:659][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.28-04.15.57:739][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.28-04.15.57:761][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.28-04.15.57:802][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.28-04.15.57:841][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.28-04.15.57:884][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.28-04.15.57:924][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.28-04.15.57:924][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.28-04.15.58:335][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.28-04.15.58:401][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.28-04.15.58:401][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.28-04.15.58:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/James/Documents/UE4SwordGen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.28-04.15.58:401][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.28-04.15.58:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/James/Documents/UE4SwordGen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.28-04.15.58:401][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.28-04.15.58:413][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.28-04.15.58:426][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.28-04.15.58:434][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.28-04.15.58:435][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.28-04.15.58:435][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.28-04.15.58:435][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.28-04.15.58:792][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.28-04.15.59:103][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.28-04.15.59:141][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.28-04.15.59:141][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.28-04.15.59:141][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.28-04.15.59:141][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.28-04.15.59:141][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.28-04.15.59:174][  0]LogNetVersion: SwordGen , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3122522569)
+[2017.11.28-04.15.59:316][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2017.11.28-04.15.59:768][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.068852 seconds
+[2017.11.28-04.15.59:773][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.28-04.15.59:773][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.28-04.15.59:773][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.28-04.15.59:813][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.28-04.16.02:072][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.28-04.16.02:113][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.28-04.16.02:713][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.28-04.16.03:083][  0]SourceControl: Source control is disabled
+[2017.11.28-04.16.03:083][  0]SourceControl: Source control is disabled
+[2017.11.28-04.16.03:136][  0]SourceControl: Source control is disabled
+[2017.11.28-04.16.03:187][  0]SourceControl: Source control is disabled
+[2017.11.28-04.16.03:956][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.28-04.16.04:211][  0]LogOcInput: OculusInput pre-init called
+[2017.11.28-04.16.04:494][  0]LogEngine: Initializing Engine...
+[2017.11.28-04.16.04:496][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.28-04.16.04:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.28-04.16.04:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.28-04.16.04:841][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.28-04.16.04:853][  0]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.28-04.16.04:865][  0]LogInit: FAudioDevice initialized.
+[2017.11.28-04.16.04:978][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/James/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.28-04.16.04:986][  0]LogInit: Texture streaming: Enabled
+[2017.11.28-04.16.05:069][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.28-04.16.05:069][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={34D5EAD4-45A6-7DC4-7B2A-B9A60A7163A7}
+[2017.11.28-04.16.05:201][  0]LogInit: Transaction tracking system initialized
+[2017.11.28-04.16.05:462][  0]BlueprintLog: New page: Editor Load
+[2017.11.28-04.16.06:277][  0]LocalizationService: Localization service is disabled
+[2017.11.28-04.16.06:994][  0]LogConsoleResponse: Display: 
+[2017.11.28-04.16.07:194][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.28-04.16.07:194][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.28-04.16.07:194][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.28-04.16.07:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/' took 0.01s
+[2017.11.28-04.16.08:206][  0]SourceControl: Source control is disabled
+[2017.11.28-04.16.08:206][  0]Cmd: MAP LOAD FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-04.16.08:206][  0]LightingResults: New page: Lighting Build
+[2017.11.28-04.16.08:238][  0]MapCheck: New page: Map Check
+[2017.11.28-04.16.08:238][  0]LightingResults: New page: Lighting Build
+[2017.11.28-04.16.08:346][  0]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.16.08:351][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-04.16.08:360][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-04.16.08:407][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.951ms to complete.
+[2017.11.28-04.16.08:407][  0]LogFileHelpers: Loading map 'map' took 0.201
+[2017.11.28-04.16.08:544][  0]LogCollectionManager: Loaded 0 collections in 0.001767 seconds
+[2017.11.28-04.16.08:620][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Saved/Collections/' took 0.01s
+[2017.11.28-04.16.08:620][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/Developers/James/Collections/' took 0.01s
+[2017.11.28-04.16.08:620][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/UE4SwordGen/Content/Collections/' took 0.01s
+[2017.11.28-04.16.08:620][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.28-04.16.08:628][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2363 classes and 519 folders.
+[2017.11.28-04.16.08:679][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.28-04.16.08:727][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.28-04.16.08:771][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.11.28-04.16.08:838][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.28-04.16.08:840][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.28-04.16.08:846][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.28-04.16.08:935][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.28-04.16.08:972][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.28-04.16.09:089][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.11.28-04.16.09:089][  0]LogLoad: (Engine Initialization) Total time: 16.66 seconds
+[2017.11.28-04.16.09:089][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.28-04.16.09:089][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.28-04.16.09:089][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.28-04.16.09:451][  0]LogAssetRegistry: Asset discovery search completed in 10.1565 seconds
+[2017.11.28-04.16.09:452][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.28-04.16.09:452][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2017.11.28-04.16.09:455][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.28-04.16.12:572][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.28-04.16.15:258][448]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.28-04.16.18:828][862]LogEditorActor: Deleted Actor: SpotLight
+[2017.11.28-04.16.18:836][862]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.11.28-04.16.27:800][642]Cmd: TRANSACTION UNDO
+[2017.11.28-04.16.27:800][642]LogEditorTransaction: Undo Delete selection
+[2017.11.28-04.16.27:823][642]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.28-04.16.46:046][669]MapCheck: New page: Map Check
+[2017.11.28-04.16.46:062][669]LightingResults: New page: Lighting Build - Nov 27, 2017, 6:16:46 PM
+[2017.11.28-04.16.46:103][669]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.28-04.16.46:165][669]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.28-04.16.46:173][669]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.28-04.16.46:690][669]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.28-04.16.46:690][669]LogSwarmInterface: [TryOpenConnection] Local Process ID is 496
+[2017.11.28-04.16.53:959][669]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.28-04.16.53:959][669]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.28-04.16.53:959][669]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.28-04.16.53:959][669]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.28-04.16.53:959][669]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.28-04.16.53:959][669]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.28-04.16.54:112][669]LogEditorBuildUtils: Build time 0:08
+[2017.11.28-04.16.54:120][669]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SwordMat, compiling. 
+[2017.11.28-04.16.54:127][669]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer SwordMat, compiling. 
+[2017.11.28-04.16.56:051][675]Job is a success!
+[2017.11.28-04.16.56:401][676]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.28-04.16.56:437][676]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2017.11.28-04.16.56:438][676]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.28-04.16.56:438][676]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2017.11.28-04.16.56:438][676]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.28-04.16.56:438][676]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2017.11.28-04.16.56:438][676]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2017.11.28-04.16.56:438][676]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2017.11.28-04.16.56:498][676]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.11.28-04.16.56:498][676]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.11.28-04.16.56:498][676]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X64)
+[2017.11.28-04.16.56:530][676]Lightmass on SOLACE: 995 ms total, 61 ms importing, 5 ms setup, 160 ms photons, 711 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 2.81 sec total, 115 ms processing.
+[2017.11.28-04.16.56:551][676]LogStaticLightingSystem: Illumination: 10.1 sec (37 ms encoding lightmaps, 6 ms encoding shadowmaps)
+[2017.11.28-04.16.56:551][676]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.28-04.16.56:551][676]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.28-04.16.56:961][676]DumpUnbuiltLightIteractions
+[2017.11.28-04.16.56:961][676]Lights with unbuilt interactions: 0
+[2017.11.28-04.16.56:961][676]
+[2017.11.28-04.16.56:961][676]Primitives with unbuilt interactions: 0
+[2017.11.28-04.16.56:970][677]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.28-04.16.56:971][677]MapCheck: New page: map - Nov 27, 2017, 6:16:56 PM
+[2017.11.28-04.16.57:020][677]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.802ms to complete.
+[2017.11.28-04.17.00:105][814]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-04.17.00:126][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.17.00:126][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-04.17.00:127][814]PIE: New page: PIE session: map (Nov 27, 2017, 6:17:00 PM)
+[2017.11.28-04.17.00:127][814]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.00:128][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001392s)
+[2017.11.28-04.17.00:128][814]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.00:129][814]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2017.11.28-04.17.00:129][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002112s)
+[2017.11.28-04.17.00:144][814]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.28-04.17.00:150][814]LogInit: FAudioDevice initialized.
+[2017.11.28-04.17.00:193][814]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.00:194][814]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.00
+[2017.11.28-04.17.00:195][814]LogWorld: Bringing up level for play took: 0.000780
+[2017.11.28-04.17.00:226][814]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.28-04.17.00:227][814]LogBlueprintUserMessages: [SwordGen_222] X=152.671 Y=272.671 Z=392.671
+[2017.11.28-04.17.00:227][814]LogBlueprintUserMessages: [SwordGen_222] 0.540666
+[2017.11.28-04.17.00:227][814]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.155
+[2017.11.28-04.17.00:227][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.17.01:685][986]LogNet: Browse: /Game/map
+[2017.11.28-04.17.01:686][986]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.01:695][986]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.01:696][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001368s)
+[2017.11.28-04.17.01:697][986]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.01:697][986]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2017.11.28-04.17.01:697][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002144s)
+[2017.11.28-04.17.01:697][986]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.01:698][986]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.01
+[2017.11.28-04.17.01:699][986]LogWorld: Bringing up level for play took: 0.000988
+[2017.11.28-04.17.01:700][986]LogBlueprintUserMessages: [SwordGen_222] X=197.848 Y=317.848 Z=437.848
+[2017.11.28-04.17.01:700][986]LogBlueprintUserMessages: [SwordGen_222] 0.896298
+[2017.11.28-04.17.01:701][986]LogLoad: Took 0.014945 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.02:422][ 72]LogNet: Browse: /Game/map
+[2017.11.28-04.17.02:422][ 72]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.02:430][ 72]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.02:432][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001365s)
+[2017.11.28-04.17.02:432][ 72]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.02:432][ 72]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2017.11.28-04.17.02:433][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002283s)
+[2017.11.28-04.17.02:433][ 72]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.02:434][ 72]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.02
+[2017.11.28-04.17.02:434][ 72]LogWorld: Bringing up level for play took: 0.000971
+[2017.11.28-04.17.02:436][ 72]LogBlueprintUserMessages: [SwordGen_222] X=208.758 Y=328.758 Z=448.758
+[2017.11.28-04.17.02:436][ 72]LogBlueprintUserMessages: [SwordGen_222] 0.888302
+[2017.11.28-04.17.02:437][ 72]LogLoad: Took 0.014545 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.03:032][143]LogNet: Browse: /Game/map
+[2017.11.28-04.17.03:032][143]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.03:041][143]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.03:042][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001514s)
+[2017.11.28-04.17.03:043][143]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.03:043][143]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2017.11.28-04.17.03:043][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002391s)
+[2017.11.28-04.17.03:043][143]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.03:044][143]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.03
+[2017.11.28-04.17.03:045][143]LogWorld: Bringing up level for play took: 0.000848
+[2017.11.28-04.17.03:046][143]LogBlueprintUserMessages: [SwordGen_222] X=271.019 Y=391.019 Z=511.019
+[2017.11.28-04.17.03:046][143]LogBlueprintUserMessages: [SwordGen_222] 0.948424
+[2017.11.28-04.17.03:047][143]LogLoad: Took 0.014528 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.03:545][202]LogNet: Browse: /Game/map
+[2017.11.28-04.17.03:545][202]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.03:554][202]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.03:556][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001643s)
+[2017.11.28-04.17.03:556][202]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.03:557][202]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2017.11.28-04.17.03:557][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002470s)
+[2017.11.28-04.17.03:557][202]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.03:558][202]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.03
+[2017.11.28-04.17.03:558][202]LogWorld: Bringing up level for play took: 0.000952
+[2017.11.28-04.17.03:560][202]LogBlueprintUserMessages: [SwordGen_222] X=246.354 Y=366.354 Z=486.354
+[2017.11.28-04.17.03:560][202]LogBlueprintUserMessages: [SwordGen_222] 0.216071
+[2017.11.28-04.17.03:561][202]LogLoad: Took 0.015493 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.04:059][261]LogNet: Browse: /Game/map
+[2017.11.28-04.17.04:059][261]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.04:068][261]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.04:070][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001600s)
+[2017.11.28-04.17.04:071][261]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.04:071][261]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2017.11.28-04.17.04:071][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002520s)
+[2017.11.28-04.17.04:071][261]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.04:073][261]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.04
+[2017.11.28-04.17.04:073][261]LogWorld: Bringing up level for play took: 0.001392
+[2017.11.28-04.17.04:075][261]LogBlueprintUserMessages: [SwordGen_222] X=200.342 Y=320.342 Z=440.342
+[2017.11.28-04.17.04:075][261]LogBlueprintUserMessages: [SwordGen_222] 0.228584
+[2017.11.28-04.17.04:076][261]LogLoad: Took 0.016978 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.13:285][331]PIE: Warning: Mobility of /Game/UEDPIE_0_map.map:PersistentLevel.SpotLight3_7 : LightComponent0 has to be 'Movable' if you'd like to move. 
+[2017.11.28-04.17.16:419][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.17.16:449][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.17.22:473][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-04.17.22:568][393]LogSavePackage: Save=76.32ms
+[2017.11.28-04.17.22:569][393]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/mapE5C5451441108111F1F93B83A0C5F5B0.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map.umap'
+[2017.11.28-04.17.22:572][393]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map.umap
+[2017.11.28-04.17.22:589][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_BuiltData" FILE="C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset" SILENT=true
+[2017.11.28-04.17.22:608][393]LogSavePackage: Save=9.21ms
+[2017.11.28-04.17.22:608][393]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/map_BuiltData668299FD414D548F86AE31BE2D1F89CE.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset'
+[2017.11.28-04.17.22:611][393]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/map_BuiltData.uasset
+[2017.11.28-04.17.32:494][511]MapCheck: New page: Map Check
+[2017.11.28-04.17.32:508][511]LightingResults: New page: Lighting Build - Nov 27, 2017, 6:17:32 PM
+[2017.11.28-04.17.32:517][511]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.28-04.17.32:518][511]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.28-04.17.32:518][511]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.28-04.17.32:519][511]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.28-04.17.32:519][511]LogSwarmInterface: [TryOpenConnection] Local Process ID is 496
+[2017.11.28-04.17.41:552][511]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.28-04.17.41:552][511]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.28-04.17.41:552][511]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.28-04.17.41:552][511]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.28-04.17.41:552][511]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.28-04.17.41:552][511]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.28-04.17.41:666][511]LogEditorBuildUtils: Build time 0:09
+[2017.11.28-04.17.42:541][560]Job is a success!
+[2017.11.28-04.17.42:590][562]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2017.11.28-04.17.42:590][562]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.28-04.17.42:590][562]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2017.11.28-04.17.42:590][562]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.28-04.17.42:590][562]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2017.11.28-04.17.42:590][562]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2017.11.28-04.17.42:590][562]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2017.11.28-04.17.42:636][562]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.11.28-04.17.42:636][562]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.11.28-04.17.42:636][562]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X64)
+[2017.11.28-04.17.42:658][562]Lightmass on SOLACE: 542 ms total, 62 ms importing, 7 ms setup, 154 ms photons, 282 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 1.09 sec total, 156 ms processing.
+[2017.11.28-04.17.42:658][562]LogStaticLightingSystem: Illumination: 10.1 sec (33 ms encoding lightmaps, 6 ms encoding shadowmaps)
+[2017.11.28-04.17.42:658][562]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.28-04.17.42:658][562]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.11.28-04.17.43:552][562]DumpUnbuiltLightIteractions
+[2017.11.28-04.17.43:552][562]Lights with unbuilt interactions: 0
+[2017.11.28-04.17.43:552][562]
+[2017.11.28-04.17.43:552][562]Primitives with unbuilt interactions: 0
+[2017.11.28-04.17.43:563][563]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.28-04.17.43:563][563]MapCheck: New page: map - Nov 27, 2017, 6:17:43 PM
+[2017.11.28-04.17.43:607][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.649ms to complete.
+[2017.11.28-04.17.44:589][673]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-04.17.44:599][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.17.44:599][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-04.17.44:599][673]PIE: New page: PIE session: map (Nov 27, 2017, 6:17:44 PM)
+[2017.11.28-04.17.44:599][673]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.44:600][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001479s)
+[2017.11.28-04.17.44:601][673]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.44:601][673]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2017.11.28-04.17.44:601][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002347s)
+[2017.11.28-04.17.44:614][673]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.28-04.17.44:621][673]LogInit: FAudioDevice initialized.
+[2017.11.28-04.17.44:651][673]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.44:652][673]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.44
+[2017.11.28-04.17.44:652][673]LogWorld: Bringing up level for play took: 0.000898
+[2017.11.28-04.17.44:654][673]LogBlueprintUserMessages: [SwordGen_222] X=80.983 Y=200.983 Z=320.983
+[2017.11.28-04.17.44:654][673]LogBlueprintUserMessages: [SwordGen_222] 0.691092
+[2017.11.28-04.17.44:654][673]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.582
+[2017.11.28-04.17.44:654][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.17.45:540][778]LogNet: Browse: /Game/map
+[2017.11.28-04.17.45:540][778]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.45:550][778]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.45:552][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001548s)
+[2017.11.28-04.17.45:552][778]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.45:552][778]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2017.11.28-04.17.45:553][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002407s)
+[2017.11.28-04.17.45:553][778]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.45:554][778]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.45
+[2017.11.28-04.17.45:554][778]LogWorld: Bringing up level for play took: 0.000900
+[2017.11.28-04.17.45:555][778]LogBlueprintUserMessages: [SwordGen_222] X=163.679 Y=283.679 Z=403.679
+[2017.11.28-04.17.45:555][778]LogBlueprintUserMessages: [SwordGen_222] 0.890988
+[2017.11.28-04.17.45:555][778]LogLoad: Took 0.015288 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.46:328][870]LogNet: Browse: /Game/map
+[2017.11.28-04.17.46:328][870]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.46:337][870]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.46:338][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001525s)
+[2017.11.28-04.17.46:339][870]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.46:339][870]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2017.11.28-04.17.46:339][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002294s)
+[2017.11.28-04.17.46:339][870]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.46:340][870]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.46
+[2017.11.28-04.17.46:340][870]LogWorld: Bringing up level for play took: 0.000877
+[2017.11.28-04.17.46:342][870]LogBlueprintUserMessages: [SwordGen_222] X=341.696 Y=461.696 Z=581.696
+[2017.11.28-04.17.46:342][870]LogBlueprintUserMessages: [SwordGen_222] 0.933409
+[2017.11.28-04.17.46:342][870]LogLoad: Took 0.014453 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.46:731][916]LogNet: Browse: /Game/map
+[2017.11.28-04.17.46:731][916]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.46:740][916]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.46:741][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001403s)
+[2017.11.28-04.17.46:741][916]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.46:742][916]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2017.11.28-04.17.46:742][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002125s)
+[2017.11.28-04.17.46:742][916]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.46:743][916]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.46
+[2017.11.28-04.17.46:743][916]LogWorld: Bringing up level for play took: 0.000777
+[2017.11.28-04.17.46:744][916]LogBlueprintUserMessages: [SwordGen_222] X=176.314 Y=296.314 Z=416.314
+[2017.11.28-04.17.46:744][916]LogBlueprintUserMessages: [SwordGen_222] 0.867122
+[2017.11.28-04.17.46:745][916]LogLoad: Took 0.013903 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.47:175][967]LogNet: Browse: /Game/map
+[2017.11.28-04.17.47:175][967]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.47:184][967]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.47:186][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001452s)
+[2017.11.28-04.17.47:186][967]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.47:186][967]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2017.11.28-04.17.47:186][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002347s)
+[2017.11.28-04.17.47:186][967]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.47:187][967]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.47
+[2017.11.28-04.17.47:188][967]LogWorld: Bringing up level for play took: 0.000929
+[2017.11.28-04.17.47:189][967]LogBlueprintUserMessages: [SwordGen_222] X=83.598 Y=203.598 Z=323.598
+[2017.11.28-04.17.47:189][967]LogBlueprintUserMessages: [SwordGen_222] 0.21601
+[2017.11.28-04.17.47:190][967]LogLoad: Took 0.014487 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.47:638][ 20]LogNet: Browse: /Game/map
+[2017.11.28-04.17.47:638][ 20]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.47:648][ 20]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.47:649][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001498s)
+[2017.11.28-04.17.47:650][ 20]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.47:650][ 20]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2017.11.28-04.17.47:650][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002334s)
+[2017.11.28-04.17.47:650][ 20]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.47:653][ 20]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.47
+[2017.11.28-04.17.47:653][ 20]LogWorld: Bringing up level for play took: 0.001886
+[2017.11.28-04.17.47:656][ 20]LogBlueprintUserMessages: [SwordGen_222] X=207.846 Y=327.846 Z=447.846
+[2017.11.28-04.17.47:656][ 20]LogBlueprintUserMessages: [SwordGen_222] 0.605243
+[2017.11.28-04.17.47:657][ 20]LogLoad: Took 0.019210 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.48:087][ 71]LogNet: Browse: /Game/map
+[2017.11.28-04.17.48:087][ 71]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.48:096][ 71]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.48:097][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001428s)
+[2017.11.28-04.17.48:097][ 71]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.48:098][ 71]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2017.11.28-04.17.48:098][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002251s)
+[2017.11.28-04.17.48:098][ 71]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.48:100][ 71]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.48
+[2017.11.28-04.17.48:100][ 71]LogWorld: Bringing up level for play took: 0.001469
+[2017.11.28-04.17.48:103][ 71]LogBlueprintUserMessages: [SwordGen_222] X=284.873 Y=404.873 Z=524.873
+[2017.11.28-04.17.48:103][ 71]LogBlueprintUserMessages: [SwordGen_222] 0.169439
+[2017.11.28-04.17.48:104][ 71]LogLoad: Took 0.017323 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.48:496][117]LogNet: Browse: /Game/map
+[2017.11.28-04.17.48:496][117]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.48:505][117]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.48:506][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001399s)
+[2017.11.28-04.17.48:507][117]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.48:507][117]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2017.11.28-04.17.48:507][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002175s)
+[2017.11.28-04.17.48:507][117]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.48:509][117]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.48
+[2017.11.28-04.17.48:509][117]LogWorld: Bringing up level for play took: 0.001527
+[2017.11.28-04.17.48:511][117]LogBlueprintUserMessages: [SwordGen_222] X=146.936 Y=266.936 Z=386.936
+[2017.11.28-04.17.48:511][117]LogBlueprintUserMessages: [SwordGen_222] 0.896939
+[2017.11.28-04.17.48:513][117]LogLoad: Took 0.016630 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.48:851][157]LogNet: Browse: /Game/map
+[2017.11.28-04.17.48:852][157]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.48:861][157]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.48:862][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001368s)
+[2017.11.28-04.17.48:862][157]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.48:863][157]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2017.11.28-04.17.48:863][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002104s)
+[2017.11.28-04.17.48:863][157]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.48:864][157]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.48
+[2017.11.28-04.17.48:864][157]LogWorld: Bringing up level for play took: 0.001197
+[2017.11.28-04.17.48:866][157]LogBlueprintUserMessages: [SwordGen_222] X=99.517 Y=219.517 Z=339.517
+[2017.11.28-04.17.48:866][157]LogBlueprintUserMessages: [SwordGen_222] 0.570666
+[2017.11.28-04.17.48:867][157]LogLoad: Took 0.015897 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.49:089][183]LogNet: Browse: /Game/map
+[2017.11.28-04.17.49:090][183]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.49:098][183]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.49:100][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001512s)
+[2017.11.28-04.17.49:100][183]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.49:100][183]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2017.11.28-04.17.49:100][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002280s)
+[2017.11.28-04.17.49:100][183]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.49:102][183]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.49
+[2017.11.28-04.17.49:103][183]LogWorld: Bringing up level for play took: 0.001591
+[2017.11.28-04.17.49:104][183]LogBlueprintUserMessages: [SwordGen_222] X=142.805 Y=262.805 Z=382.805
+[2017.11.28-04.17.49:105][183]LogBlueprintUserMessages: [SwordGen_222] 0.120212
+[2017.11.28-04.17.49:106][183]LogLoad: Took 0.016197 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.49:270][202]LogNet: Browse: /Game/map
+[2017.11.28-04.17.49:270][202]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.49:279][202]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.49:280][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001507s)
+[2017.11.28-04.17.49:281][202]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.49:281][202]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2017.11.28-04.17.49:281][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002291s)
+[2017.11.28-04.17.49:281][202]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.49:283][202]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.49
+[2017.11.28-04.17.49:283][202]LogWorld: Bringing up level for play took: 0.001406
+[2017.11.28-04.17.49:285][202]LogBlueprintUserMessages: [SwordGen_222] X=200.100 Y=320.100 Z=440.100
+[2017.11.28-04.17.49:285][202]LogBlueprintUserMessages: [SwordGen_222] 0.612293
+[2017.11.28-04.17.49:286][202]LogLoad: Took 0.016025 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.49:416][217]LogNet: Browse: /Game/map
+[2017.11.28-04.17.49:416][217]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.49:425][217]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.49:426][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001351s)
+[2017.11.28-04.17.49:427][217]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.49:427][217]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2017.11.28-04.17.49:427][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002108s)
+[2017.11.28-04.17.49:427][217]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.49:429][217]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.49
+[2017.11.28-04.17.49:429][217]LogWorld: Bringing up level for play took: 0.001406
+[2017.11.28-04.17.49:431][217]LogBlueprintUserMessages: [SwordGen_222] X=119.073 Y=239.073 Z=359.073
+[2017.11.28-04.17.49:431][217]LogBlueprintUserMessages: [SwordGen_222] 0.416089
+[2017.11.28-04.17.49:432][217]LogLoad: Took 0.015937 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.49:763][256]LogNet: Browse: /Game/map
+[2017.11.28-04.17.49:763][256]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.17.49:771][256]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.17.49:773][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001410s)
+[2017.11.28-04.17.49:773][256]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.17.49:773][256]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2017.11.28-04.17.49:773][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002152s)
+[2017.11.28-04.17.49:773][256]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.17.49:775][256]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.17.49
+[2017.11.28-04.17.49:775][256]LogWorld: Bringing up level for play took: 0.001196
+[2017.11.28-04.17.49:777][256]LogBlueprintUserMessages: [SwordGen_222] X=153.011 Y=273.011 Z=393.011
+[2017.11.28-04.17.49:777][256]LogBlueprintUserMessages: [SwordGen_222] 0.900418
+[2017.11.28-04.17.49:778][256]LogLoad: Took 0.014979 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.17.51:526][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.17.51:556][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.18.16:446][812]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2017.11.28-04.18.16:448][812]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.16:706][812]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.16:721][812]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.16:762][812]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.28-04.18.16:765][812]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.28-04.18.16:769][812]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.28-04.18.16:773][812]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.28-04.18.16:776][812]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.28-04.18.16:785][812]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.28-04.18.22:214][280]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.24:593][493]LogMaterialEditor: Saving and Compiling material SwordMat
+[2017.11.28-04.18.24:998][493]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.25:045][493]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.25:083][493]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.25:151][493]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat, compiling. 
+[2017.11.28-04.18.26:548][493]TextureStreamingBuild: Display: Compiling optional shaders took 1.402 seconds.
+[2017.11.28-04.18.28:609][493]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.28-04.18.28:630][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset" SILENT=true
+[2017.11.28-04.18.28:654][493]LogSavePackage: Save=14.08ms
+[2017.11.28-04.18.28:655][493]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMatAD7D3B5D48578379D1E1F08379945E22.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset'
+[2017.11.28-04.18.28:660][493]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset
+[2017.11.28-04.18.28:666][493]MaterialEditorStats: Base pass shader: 113 instructions
+[2017.11.28-04.18.28:666][493]MaterialEditorStats: Base pass shader with Surface Lightmap: 130 instructions
+[2017.11.28-04.18.28:666][493]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2017.11.28-04.18.28:666][493]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.28-04.18.28:666][493]MaterialEditorStats: Texture samplers: 5/16
+[2017.11.28-04.18.28:666][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.28-04.18.32:520][893]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-04.18.32:531][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.18.32:531][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-04.18.32:531][893]PIE: New page: PIE session: map (Nov 27, 2017, 6:18:32 PM)
+[2017.11.28-04.18.32:531][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.32:532][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001425s)
+[2017.11.28-04.18.32:533][893]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.32:533][893]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2017.11.28-04.18.32:533][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002227s)
+[2017.11.28-04.18.32:546][893]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2017.11.28-04.18.32:553][893]LogInit: FAudioDevice initialized.
+[2017.11.28-04.18.32:582][893]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.32:583][893]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.32
+[2017.11.28-04.18.32:583][893]LogWorld: Bringing up level for play took: 0.000706
+[2017.11.28-04.18.32:584][893]LogBlueprintUserMessages: [SwordGen_222] X=233.280 Y=353.280 Z=473.280
+[2017.11.28-04.18.32:584][893]LogBlueprintUserMessages: [SwordGen_222] 0.983947
+[2017.11.28-04.18.32:584][893]PIE: Play in editor start time for /Game/UEDPIE_0_map 0.512
+[2017.11.28-04.18.32:585][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.18.33:721][ 28]LogNet: Browse: /Game/map
+[2017.11.28-04.18.33:721][ 28]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.33:730][ 28]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.33:731][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001460s)
+[2017.11.28-04.18.33:732][ 28]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.33:732][ 28]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2017.11.28-04.18.33:732][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002222s)
+[2017.11.28-04.18.33:732][ 28]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.33:733][ 28]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.33
+[2017.11.28-04.18.33:733][ 28]LogWorld: Bringing up level for play took: 0.000768
+[2017.11.28-04.18.33:734][ 28]LogBlueprintUserMessages: [SwordGen_222] X=97.584 Y=217.584 Z=337.584
+[2017.11.28-04.18.33:734][ 28]LogBlueprintUserMessages: [SwordGen_222] 0.58684
+[2017.11.28-04.18.33:735][ 28]LogLoad: Took 0.013488 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.34:480][117]LogNet: Browse: /Game/map
+[2017.11.28-04.18.34:481][117]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.34:489][117]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.34:491][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001402s)
+[2017.11.28-04.18.34:491][117]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.34:491][117]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2017.11.28-04.18.34:491][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002171s)
+[2017.11.28-04.18.34:491][117]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.34:492][117]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.34
+[2017.11.28-04.18.34:493][117]LogWorld: Bringing up level for play took: 0.000875
+[2017.11.28-04.18.34:494][117]LogBlueprintUserMessages: [SwordGen_222] X=43.364 Y=163.364 Z=283.364
+[2017.11.28-04.18.34:494][117]LogBlueprintUserMessages: [SwordGen_222] 0.152562
+[2017.11.28-04.18.34:495][117]LogLoad: Took 0.014263 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.35:290][211]LogNet: Browse: /Game/map
+[2017.11.28-04.18.35:290][211]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.35:300][211]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.35:302][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001465s)
+[2017.11.28-04.18.35:302][211]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.35:303][211]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2017.11.28-04.18.35:303][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002415s)
+[2017.11.28-04.18.35:303][211]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.35:304][211]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.35
+[2017.11.28-04.18.35:304][211]LogWorld: Bringing up level for play took: 0.001101
+[2017.11.28-04.18.35:306][211]LogBlueprintUserMessages: [SwordGen_222] X=260.296 Y=380.296 Z=500.296
+[2017.11.28-04.18.35:306][211]LogBlueprintUserMessages: [SwordGen_222] 0.54268
+[2017.11.28-04.18.35:307][211]LogLoad: Took 0.016912 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.37:197][437]LogNet: Browse: /Game/map
+[2017.11.28-04.18.37:197][437]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.37:206][437]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.37:208][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001675s)
+[2017.11.28-04.18.37:208][437]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.37:209][437]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2017.11.28-04.18.37:209][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002478s)
+[2017.11.28-04.18.37:209][437]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.37:210][437]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.37
+[2017.11.28-04.18.37:210][437]LogWorld: Bringing up level for play took: 0.001187
+[2017.11.28-04.18.37:212][437]LogBlueprintUserMessages: [SwordGen_222] X=82.378 Y=202.378 Z=322.378
+[2017.11.28-04.18.37:212][437]LogBlueprintUserMessages: [SwordGen_222] 0.382702
+[2017.11.28-04.18.37:213][437]LogLoad: Took 0.015571 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.38:046][536]LogNet: Browse: /Game/map
+[2017.11.28-04.18.38:046][536]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.38:056][536]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.38:058][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001505s)
+[2017.11.28-04.18.38:058][536]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.38:058][536]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2017.11.28-04.18.38:058][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002394s)
+[2017.11.28-04.18.38:058][536]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.38:060][536]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.38
+[2017.11.28-04.18.38:061][536]LogWorld: Bringing up level for play took: 0.001839
+[2017.11.28-04.18.38:063][536]LogBlueprintUserMessages: [SwordGen_222] X=295.245 Y=415.245 Z=535.245
+[2017.11.28-04.18.38:063][536]LogBlueprintUserMessages: [SwordGen_222] 0.979095
+[2017.11.28-04.18.38:064][536]LogLoad: Took 0.018073 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.38:752][618]LogNet: Browse: /Game/map
+[2017.11.28-04.18.38:752][618]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.38:762][618]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.38:763][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001488s)
+[2017.11.28-04.18.38:764][618]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.38:764][618]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2017.11.28-04.18.38:764][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002254s)
+[2017.11.28-04.18.38:764][618]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.38:765][618]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.38
+[2017.11.28-04.18.38:766][618]LogWorld: Bringing up level for play took: 0.001310
+[2017.11.28-04.18.38:768][618]LogBlueprintUserMessages: [SwordGen_222] X=2.615 Y=122.615 Z=242.615
+[2017.11.28-04.18.38:768][618]LogBlueprintUserMessages: [SwordGen_222] 0.857509
+[2017.11.28-04.18.38:769][618]LogLoad: Took 0.017236 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.39:449][699]LogNet: Browse: /Game/map
+[2017.11.28-04.18.39:449][699]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.39:459][699]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.39:460][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001435s)
+[2017.11.28-04.18.39:461][699]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.39:461][699]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2017.11.28-04.18.39:461][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002243s)
+[2017.11.28-04.18.39:461][699]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.39:462][699]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.39
+[2017.11.28-04.18.39:463][699]LogWorld: Bringing up level for play took: 0.001228
+[2017.11.28-04.18.39:465][699]LogBlueprintUserMessages: [SwordGen_222] X=262.230 Y=382.230 Z=502.230
+[2017.11.28-04.18.39:465][699]LogBlueprintUserMessages: [SwordGen_222] 0.42143
+[2017.11.28-04.18.39:466][699]LogLoad: Took 0.016711 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.40:031][766]LogNet: Browse: /Game/map
+[2017.11.28-04.18.40:031][766]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.40:041][766]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.40:042][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001340s)
+[2017.11.28-04.18.40:042][766]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.40:043][766]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2017.11.28-04.18.40:043][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002201s)
+[2017.11.28-04.18.40:043][766]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.40:044][766]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.40
+[2017.11.28-04.18.40:045][766]LogWorld: Bringing up level for play took: 0.001216
+[2017.11.28-04.18.40:046][766]LogBlueprintUserMessages: [SwordGen_222] X=230.511 Y=350.511 Z=470.511
+[2017.11.28-04.18.40:046][766]LogBlueprintUserMessages: [SwordGen_222] 0.817011
+[2017.11.28-04.18.40:048][766]LogLoad: Took 0.016349 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.40:753][850]LogNet: Browse: /Game/map
+[2017.11.28-04.18.40:753][850]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.40:763][850]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.40:764][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001437s)
+[2017.11.28-04.18.40:765][850]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.40:765][850]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2017.11.28-04.18.40:765][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002186s)
+[2017.11.28-04.18.40:765][850]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.40:766][850]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.40
+[2017.11.28-04.18.40:767][850]LogWorld: Bringing up level for play took: 0.001428
+[2017.11.28-04.18.40:769][850]LogBlueprintUserMessages: [SwordGen_222] X=193.750 Y=313.750 Z=433.750
+[2017.11.28-04.18.40:769][850]LogBlueprintUserMessages: [SwordGen_222] 0.443373
+[2017.11.28-04.18.40:770][850]LogLoad: Took 0.016712 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.41:292][912]LogNet: Browse: /Game/map
+[2017.11.28-04.18.41:292][912]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.41:301][912]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.41:302][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001592s)
+[2017.11.28-04.18.41:303][912]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.41:303][912]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2017.11.28-04.18.41:303][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002693s)
+[2017.11.28-04.18.41:304][912]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.41:305][912]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.41
+[2017.11.28-04.18.41:306][912]LogWorld: Bringing up level for play took: 0.001424
+[2017.11.28-04.18.41:308][912]LogBlueprintUserMessages: [SwordGen_222] X=213.339 Y=333.339 Z=453.339
+[2017.11.28-04.18.41:308][912]LogBlueprintUserMessages: [SwordGen_222] 0.293283
+[2017.11.28-04.18.41:309][912]LogLoad: Took 0.016823 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.42:131][ 10]LogNet: Browse: /Game/map
+[2017.11.28-04.18.42:131][ 10]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.42:140][ 10]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.42:142][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001405s)
+[2017.11.28-04.18.42:142][ 10]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.42:142][ 10]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2017.11.28-04.18.42:143][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002236s)
+[2017.11.28-04.18.42:143][ 10]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.42:144][ 10]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.42
+[2017.11.28-04.18.42:145][ 10]LogWorld: Bringing up level for play took: 0.001356
+[2017.11.28-04.18.42:146][ 10]LogBlueprintUserMessages: [SwordGen_222] X=61.910 Y=181.910 Z=301.910
+[2017.11.28-04.18.42:147][ 10]LogBlueprintUserMessages: [SwordGen_222] 0.066744
+[2017.11.28-04.18.42:148][ 10]LogLoad: Took 0.016818 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.43:230][139]LogNet: Browse: /Game/map
+[2017.11.28-04.18.43:230][139]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.43:241][139]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.43:243][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001634s)
+[2017.11.28-04.18.43:243][139]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.43:243][139]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2017.11.28-04.18.43:243][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002615s)
+[2017.11.28-04.18.43:244][139]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.43:245][139]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.43
+[2017.11.28-04.18.43:246][139]LogWorld: Bringing up level for play took: 0.001591
+[2017.11.28-04.18.43:249][139]LogBlueprintUserMessages: [SwordGen_222] X=199.309 Y=319.309 Z=439.309
+[2017.11.28-04.18.43:249][139]LogBlueprintUserMessages: [SwordGen_222] 0.40202
+[2017.11.28-04.18.43:251][139]LogLoad: Took 0.020348 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.44:008][229]LogNet: Browse: /Game/map
+[2017.11.28-04.18.44:008][229]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.44:017][229]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.44:018][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001362s)
+[2017.11.28-04.18.44:019][229]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.44:019][229]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2017.11.28-04.18.44:019][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002135s)
+[2017.11.28-04.18.44:019][229]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.44:021][229]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.44
+[2017.11.28-04.18.44:021][229]LogWorld: Bringing up level for play took: 0.001477
+[2017.11.28-04.18.44:024][229]LogBlueprintUserMessages: [SwordGen_222] X=336.818 Y=456.818 Z=576.818
+[2017.11.28-04.18.44:024][229]LogBlueprintUserMessages: [SwordGen_222] 0.234107
+[2017.11.28-04.18.44:025][229]LogLoad: Took 0.016841 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.44:351][268]LogNet: Browse: /Game/map
+[2017.11.28-04.18.44:356][268]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.44:364][268]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.44:366][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001345s)
+[2017.11.28-04.18.44:366][268]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.44:366][268]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2017.11.28-04.18.44:366][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002116s)
+[2017.11.28-04.18.44:366][268]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.44:368][268]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.44
+[2017.11.28-04.18.44:368][268]LogWorld: Bringing up level for play took: 0.001225
+[2017.11.28-04.18.44:371][268]LogBlueprintUserMessages: [SwordGen_222] X=352.024 Y=472.024 Z=592.024
+[2017.11.28-04.18.44:371][268]LogBlueprintUserMessages: [SwordGen_222] 0.847041
+[2017.11.28-04.18.44:372][268]LogLoad: Took 0.016007 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.44:602][295]LogNet: Browse: /Game/map
+[2017.11.28-04.18.44:602][295]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.44:610][295]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.44:612][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001356s)
+[2017.11.28-04.18.44:612][295]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.44:612][295]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2017.11.28-04.18.44:612][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002122s)
+[2017.11.28-04.18.44:613][295]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.44:614][295]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.44
+[2017.11.28-04.18.44:614][295]LogWorld: Bringing up level for play took: 0.001157
+[2017.11.28-04.18.44:616][295]LogBlueprintUserMessages: [SwordGen_222] X=267.404 Y=387.404 Z=507.404
+[2017.11.28-04.18.44:616][295]LogBlueprintUserMessages: [SwordGen_222] 0.259255
+[2017.11.28-04.18.44:618][295]LogLoad: Took 0.015947 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.44:998][340]LogNet: Browse: /Game/map
+[2017.11.28-04.18.44:998][340]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.45:007][340]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.45:008][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001520s)
+[2017.11.28-04.18.45:009][340]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.45:009][340]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2017.11.28-04.18.45:009][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002380s)
+[2017.11.28-04.18.45:009][340]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.45:011][340]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.45
+[2017.11.28-04.18.45:011][340]LogWorld: Bringing up level for play took: 0.001370
+[2017.11.28-04.18.45:013][340]LogBlueprintUserMessages: [SwordGen_222] X=180.544 Y=300.544 Z=420.544
+[2017.11.28-04.18.45:013][340]LogBlueprintUserMessages: [SwordGen_222] 0.793786
+[2017.11.28-04.18.45:015][340]LogLoad: Took 0.016285 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.45:430][389]LogNet: Browse: /Game/map
+[2017.11.28-04.18.45:430][389]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.45:439][389]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.45:440][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001416s)
+[2017.11.28-04.18.45:441][389]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.45:441][389]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2017.11.28-04.18.45:441][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002177s)
+[2017.11.28-04.18.45:441][389]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.45:443][389]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.45
+[2017.11.28-04.18.45:443][389]LogWorld: Bringing up level for play took: 0.001605
+[2017.11.28-04.18.45:445][389]LogBlueprintUserMessages: [SwordGen_222] X=196.244 Y=316.244 Z=436.244
+[2017.11.28-04.18.45:445][389]LogBlueprintUserMessages: [SwordGen_222] 0.663045
+[2017.11.28-04.18.45:446][389]LogLoad: Took 0.016312 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.45:901][443]LogNet: Browse: /Game/map
+[2017.11.28-04.18.45:901][443]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.45:912][443]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.45:913][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001318s)
+[2017.11.28-04.18.45:913][443]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.45:914][443]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2017.11.28-04.18.45:914][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002074s)
+[2017.11.28-04.18.45:914][443]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.45:915][443]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.45
+[2017.11.28-04.18.45:916][443]LogWorld: Bringing up level for play took: 0.001265
+[2017.11.28-04.18.45:918][443]LogBlueprintUserMessages: [SwordGen_222] X=6.636 Y=126.636 Z=246.636
+[2017.11.28-04.18.45:918][443]LogBlueprintUserMessages: [SwordGen_222] 0.7687
+[2017.11.28-04.18.45:919][443]LogLoad: Took 0.017875 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.46:333][492]LogNet: Browse: /Game/map
+[2017.11.28-04.18.46:333][492]LogLoad: LoadMap: /Game/map
+[2017.11.28-04.18.46:342][492]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_map
+[2017.11.28-04.18.46:344][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001415s)
+[2017.11.28-04.18.46:344][492]LogAIModule: Creating AISystem for world map
+[2017.11.28-04.18.46:344][492]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2017.11.28-04.18.46:344][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map.map to /Game/UEDPIE_0_map.map (0.002205s)
+[2017.11.28-04.18.46:344][492]LogLoad: Game class is 'FunctionalTestGameMode'
+[2017.11.28-04.18.46:346][492]LogWorld: Bringing World /Game/UEDPIE_0_map.map up for play (max tick rate 0) at 2017.11.27-23.18.46
+[2017.11.28-04.18.46:346][492]LogWorld: Bringing up level for play took: 0.001189
+[2017.11.28-04.18.46:348][492]LogBlueprintUserMessages: [SwordGen_222] X=359.308 Y=479.308 Z=599.308
+[2017.11.28-04.18.46:349][492]LogBlueprintUserMessages: [SwordGen_222] 0.299783
+[2017.11.28-04.18.46:349][492]LogLoad: Took 0.016617 seconds to LoadMap(/Game/UEDPIE_0_map)
+[2017.11.28-04.18.47:975][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.18.48:006][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map.map:PersistentLevel' has LevelScriptBlueprint '/Game/map.map:PersistentLevel.map' with GeneratedClass '/Game/map.map_C' with ClassGeneratedBy '/Game/map.map:PersistentLevel.map'
+[2017.11.28-04.18.51:463][928]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.53:284][ 86]LogMaterialEditor: Saving and Compiling material SwordMat
+[2017.11.28-04.18.53:693][ 86]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.53:742][ 86]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.53:780][ 86]LogMaterial: Missing cached shader map for material SwordMat, compiling. 
+[2017.11.28-04.18.53:817][ 86]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SwordMat, compiling. 
+[2017.11.28-04.18.55:257][ 86]TextureStreamingBuild: Display: Compiling optional shaders took 1.444 seconds.
+[2017.11.28-04.18.57:271][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwordMat" FILE="C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset" SILENT=true
+[2017.11.28-04.18.57:295][ 86]LogSavePackage: Save=15.48ms
+[2017.11.28-04.18.57:295][ 86]LogSavePackage: Moving 'C:/Users/James/Documents/UE4SwordGen/Saved/SwordMatA7EFD3FB49F8702F0A43BBB7B298C013.tmp' to 'C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset'
+[2017.11.28-04.18.57:301][ 86]LogSavePackage: Display: Finished SavePackage C:/Users/James/Documents/UE4SwordGen/Content/SwordMat.uasset
+[2017.11.28-04.18.57:310][ 86]MaterialEditorStats: Base pass shader: 111 instructions
+[2017.11.28-04.18.57:310][ 86]MaterialEditorStats: Base pass shader with Surface Lightmap: 128 instructions
+[2017.11.28-04.18.57:310][ 86]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2017.11.28-04.18.57:310][ 86]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.28-04.18.57:310][ 86]MaterialEditorStats: Texture samplers: 5/16
+[2017.11.28-04.18.57:310][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
